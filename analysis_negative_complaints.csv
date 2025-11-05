@@ -1,0 +1,108 @@
+country,complaint,count
+United Kingdom,wait,50
+United Kingdom,service,35
+United Kingdom,price,22
+United Kingdom,cold,16
+United Kingdom,expensive,15
+United Kingdom,waited,13
+United Kingdom,average,12
+United Kingdom,poor,10
+United Kingdom,unfortunately,9
+United Kingdom,disappointing,7
+USA,wait,20
+USA,service,19
+USA,price,12
+USA,average,10
+USA,expensive,9
+USA,small,7
+USA,cold,6
+USA,poor,4
+USA,unfortunately,4
+USA,overpriced,4
+Australia,wait,4
+Australia,service,4
+Australia,price,4
+Australia,expensive,3
+Australia,average,3
+Australia,rude,2
+Australia,disappointing,2
+Australia,small,2
+Australia,bland,1
+Ireland,service,6
+Ireland,wait,5
+Ireland,poor,3
+Ireland,price,3
+Ireland,expensive,2
+Ireland,average,2
+Ireland,waited,2
+Ireland,slow,2
+Ireland,mediocre,2
+Ireland,bad,1
+Canada,wait,4
+Canada,bad,4
+Canada,small,3
+Canada,service,3
+Canada,average,2
+Canada,expensive,1
+Canada,rude,1
+Canada,poor,1
+Canada,mediocre,1
+Canada,cold,1
+Croatia,wait,2
+Croatia,poor,1
+Croatia,service,1
+Croatia,expensive,1
+Croatia,rude,1
+Croatia,terrible,1
+France,wait,4
+France,service,1
+France,expensive,1
+France,small,1
+France,cold,1
+France,bad,1
+The Netherlands,expensive,3
+The Netherlands,wait,3
+The Netherlands,price,3
+The Netherlands,service,3
+The Netherlands,overpriced,1
+The Netherlands,average,1
+Norway,expensive,1
+Norway,waited,1
+Norway,wait,1
+Norway,bad,1
+Norway,average,1
+Norway,unfortunately,1
+Norway,price,1
+Germany,price,1
+Finland,wait,3
+Finland,expensive,1
+Finland,rude,1
+Finland,issue,1
+Finland,service,1
+Spain,bad,3
+Spain,wait,2
+Spain,slow,1
+Spain,terrible,1
+Spain,service,1
+Spain,expensive,1
+Spain,average,1
+Spain,price,1
+Spain,rude,1
+Spain,poor,1
+Sweden,wait,2
+Sweden,unfortunately,2
+Sweden,price,1
+Sweden,service,1
+Switzerland,small,2
+Switzerland,price,1
+Switzerland,wrong,1
+Switzerland,service,1
+Switzerland,expensive,1
+Singapore,overpriced,1
+Singapore,disappointing,1
+Singapore,bad,1
+Singapore,poor,1
+Singapore,price,1
+Singapore,slow,1
+Singapore,average,1
+Singapore,service,1

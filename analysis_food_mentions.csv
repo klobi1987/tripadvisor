@@ -1,0 +1,209 @@
+country,food,mentions
+United Kingdom,steak,237
+United Kingdom,fish,202
+United Kingdom,seafood,142
+United Kingdom,pasta,111
+United Kingdom,pizza,143
+United Kingdom,risotto,147
+United Kingdom,lamb,53
+United Kingdom,beef,124
+United Kingdom,chicken,109
+United Kingdom,octopus,43
+United Kingdom,squid,59
+United Kingdom,dessert,171
+United Kingdom,cake,173
+United Kingdom,wine,630
+United Kingdom,cocktail,303
+USA,steak,56
+USA,fish,104
+USA,seafood,78
+USA,pasta,70
+USA,pizza,50
+USA,risotto,83
+USA,lamb,29
+USA,beef,38
+USA,chicken,39
+USA,octopus,34
+USA,squid,18
+USA,dessert,112
+USA,cake,39
+USA,wine,271
+USA,cocktail,69
+Australia,steak,14
+Australia,fish,19
+Australia,seafood,28
+Australia,pasta,12
+Australia,pizza,13
+Australia,risotto,24
+Australia,lamb,4
+Australia,beef,9
+Australia,chicken,6
+Australia,octopus,6
+Australia,squid,7
+Australia,dessert,15
+Australia,cake,15
+Australia,wine,54
+Australia,cocktail,18
+Ireland,steak,22
+Ireland,fish,13
+Ireland,seafood,17
+Ireland,pasta,9
+Ireland,pizza,7
+Ireland,risotto,14
+Ireland,lamb,6
+Ireland,beef,10
+Ireland,chicken,8
+Ireland,octopus,2
+Ireland,squid,1
+Ireland,dessert,10
+Ireland,cake,12
+Ireland,wine,27
+Ireland,cocktail,17
+Canada,steak,8
+Canada,fish,18
+Canada,seafood,20
+Canada,pasta,9
+Canada,pizza,7
+Canada,risotto,17
+Canada,lamb,2
+Canada,beef,3
+Canada,chicken,8
+Canada,octopus,4
+Canada,squid,7
+Canada,dessert,14
+Canada,cake,9
+Canada,wine,40
+Canada,cocktail,11
+Croatia,steak,16
+Croatia,fish,9
+Croatia,seafood,9
+Croatia,pasta,14
+Croatia,pizza,6
+Croatia,risotto,4
+Croatia,lamb,3
+Croatia,beef,10
+Croatia,chicken,2
+Croatia,octopus,5
+Croatia,squid,3
+Croatia,dessert,10
+Croatia,cake,15
+Croatia,wine,29
+Croatia,cocktail,9
+France,steak,1
+France,fish,20
+France,seafood,5
+France,pasta,7
+France,pizza,5
+France,risotto,10
+France,lamb,1
+France,beef,3
+France,chicken,3
+France,octopus,5
+France,squid,4
+France,dessert,11
+France,cake,5
+France,wine,18
+France,cocktail,10
+The Netherlands,steak,6
+The Netherlands,fish,8
+The Netherlands,seafood,8
+The Netherlands,pasta,5
+The Netherlands,pizza,3
+The Netherlands,risotto,5
+The Netherlands,beef,3
+The Netherlands,chicken,1
+The Netherlands,octopus,1
+The Netherlands,dessert,1
+The Netherlands,cake,8
+The Netherlands,wine,16
+The Netherlands,cocktail,4
+Norway,steak,5
+Norway,fish,7
+Norway,seafood,2
+Norway,pasta,3
+Norway,pizza,2
+Norway,risotto,2
+Norway,lamb,2
+Norway,beef,5
+Norway,chicken,3
+Norway,squid,1
+Norway,dessert,5
+Norway,cake,2
+Norway,wine,12
+Norway,cocktail,5
+Germany,steak,3
+Germany,fish,9
+Germany,seafood,6
+Germany,pasta,3
+Germany,pizza,2
+Germany,risotto,4
+Germany,lamb,2
+Germany,beef,2
+Germany,chicken,1
+Germany,octopus,3
+Germany,squid,1
+Germany,dessert,6
+Germany,cake,2
+Germany,wine,11
+Germany,cocktail,5
+Finland,steak,6
+Finland,fish,5
+Finland,seafood,6
+Finland,pasta,3
+Finland,pizza,5
+Finland,risotto,5
+Finland,lamb,1
+Finland,beef,1
+Finland,chicken,2
+Finland,octopus,1
+Finland,squid,1
+Finland,dessert,8
+Finland,cake,6
+Finland,wine,15
+Finland,cocktail,1
+Spain,fish,9
+Spain,seafood,1
+Spain,pasta,4
+Spain,pizza,5
+Spain,risotto,5
+Spain,chicken,1
+Spain,octopus,2
+Spain,squid,2
+Spain,dessert,2
+Spain,cake,2
+Spain,wine,5
+Spain,cocktail,4
+Sweden,steak,1
+Sweden,fish,2
+Sweden,pasta,2
+Sweden,beef,1
+Sweden,octopus,1
+Sweden,squid,1
+Sweden,dessert,3
+Sweden,cake,1
+Sweden,wine,11
+Switzerland,steak,1
+Switzerland,fish,1
+Switzerland,seafood,4
+Switzerland,pasta,3
+Switzerland,pizza,3
+Switzerland,risotto,2
+Switzerland,chicken,1
+Switzerland,octopus,1
+Switzerland,squid,1
+Switzerland,dessert,3
+Switzerland,wine,7
+Switzerland,cocktail,3
+Singapore,steak,1
+Singapore,fish,5
+Singapore,seafood,6
+Singapore,pasta,3
+Singapore,pizza,5
+Singapore,risotto,4
+Singapore,beef,1
+Singapore,chicken,1
+Singapore,squid,2
+Singapore,dessert,3
+Singapore,cake,3
+Singapore,wine,12
+Singapore,cocktail,1

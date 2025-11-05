@@ -1,0 +1,451 @@
+country,keyword,count
+United Kingdom,food,2826
+United Kingdom,restaurant,1948
+United Kingdom,service,1830
+United Kingdom,great,1399
+United Kingdom,table,1394
+United Kingdom,dubrovnik,1319
+United Kingdom,good,1316
+United Kingdom,view,1306
+United Kingdom,views,1257
+United Kingdom,staff,1194
+United Kingdom,lovely,988
+United Kingdom,here,978
+United Kingdom,amazing,883
+United Kingdom,excellent,811
+United Kingdom,recommend,803
+United Kingdom,meal,762
+United Kingdom,friendly,698
+United Kingdom,location,674
+United Kingdom,best,670
+United Kingdom,wine,652
+United Kingdom,evening,627
+United Kingdom,delicious,600
+United Kingdom,town,586
+United Kingdom,place,580
+United Kingdom,really,576
+United Kingdom,waiter,561
+United Kingdom,well,561
+United Kingdom,cable,548
+United Kingdom,experience,539
+United Kingdom,lunch,536
+USA,food,958
+USA,service,748
+USA,view,674
+USA,restaurant,640
+USA,great,580
+USA,dubrovnik,494
+USA,good,487
+USA,table,362
+USA,excellent,340
+USA,views,339
+USA,delicious,322
+USA,here,316
+USA,dinner,309
+USA,amazing,307
+USA,wine,305
+USA,best,303
+USA,experience,285
+USA,meal,275
+USA,recommend,265
+USA,staff,264
+USA,city,252
+USA,beautiful,228
+USA,place,223
+USA,well,208
+USA,nice,204
+USA,waiter,204
+USA,wonderful,193
+USA,location,192
+USA,reservation,184
+USA,highly,180
+Australia,food,231
+Australia,service,198
+Australia,restaurant,163
+Australia,great,148
+Australia,view,143
+Australia,dubrovnik,118
+Australia,good,109
+Australia,table,97
+Australia,amazing,85
+Australia,staff,85
+Australia,here,75
+Australia,place,71
+Australia,dinner,70
+Australia,views,68
+Australia,recommend,65
+Australia,delicious,64
+Australia,best,64
+Australia,lovely,61
+Australia,town,60
+Australia,friendly,58
+Australia,wine,57
+Australia,meal,56
+Australia,well,56
+Australia,experience,55
+Australia,excellent,53
+Australia,location,48
+Australia,night,47
+Australia,attentive,44
+Australia,nice,44
+Australia,lunch,43
+Ireland,food,198
+Ireland,restaurant,139
+Ireland,staff,110
+Ireland,service,108
+Ireland,dubrovnik,102
+Ireland,great,102
+Ireland,view,100
+Ireland,good,90
+Ireland,amazing,88
+Ireland,table,88
+Ireland,views,82
+Ireland,here,74
+Ireland,recommend,74
+Ireland,lovely,72
+Ireland,friendly,56
+Ireland,delicious,56
+Ireland,beautiful,52
+Ireland,really,48
+Ireland,experience,47
+Ireland,excellent,47
+Ireland,waiter,47
+Ireland,best,47
+Ireland,worth,46
+Ireland,place,42
+Ireland,meal,42
+Ireland,dinner,41
+Ireland,visit,40
+Ireland,definitely,38
+Ireland,highly,38
+Ireland,setting,38
+Canada,food,151
+Canada,service,136
+Canada,view,118
+Canada,restaurant,106
+Canada,great,98
+Canada,good,93
+Canada,dubrovnik,77
+Canada,amazing,57
+Canada,table,54
+Canada,excellent,54
+Canada,experience,51
+Canada,meal,50
+Canada,dinner,49
+Canada,staff,47
+Canada,recommend,46
+Canada,best,46
+Canada,wine,45
+Canada,place,45
+Canada,views,39
+Canada,town,37
+Canada,here,36
+Canada,location,35
+Canada,city,34
+Canada,delicious,34
+Canada,highly,33
+Canada,nice,33
+Canada,friendly,32
+Canada,really,32
+Canada,well,32
+Canada,beautiful,31
+Croatia,food,123
+Croatia,view,107
+Croatia,restaurant,93
+Croatia,dubrovnik,81
+Croatia,service,81
+Croatia,good,80
+Croatia,great,68
+Croatia,amazing,51
+Croatia,staff,50
+Croatia,place,44
+Croatia,recommend,43
+Croatia,dinner,41
+Croatia,best,41
+Croatia,city,39
+Croatia,beautiful,38
+Croatia,friendly,38
+Croatia,experience,37
+Croatia,excellent,37
+Croatia,perfect,35
+Croatia,wine,31
+Croatia,here,31
+Croatia,nice,30
+Croatia,prices,30
+Croatia,location,30
+Croatia,visit,28
+Croatia,table,27
+Croatia,really,26
+Croatia,delicious,25
+Croatia,lunch,25
+Croatia,time,24
+France,good,86
+France,view,64
+France,service,64
+France,nice,54
+France,food,52
+France,restaurant,49
+France,place,43
+France,dubrovnik,32
+France,great,32
+France,friendly,31
+France,excellent,30
+France,well,29
+France,staff,24
+France,delicious,24
+France,recommend,24
+France,dishes,21
+France,really,21
+France,amazing,20
+France,price,19
+France,table,19
+France,fish,19
+France,perfect,18
+France,meal,18
+France,port,17
+France,terrace,16
+France,beautiful,15
+France,wine,15
+France,quality,15
+France,town,14
+France,dinner,14
+The Netherlands,food,66
+The Netherlands,service,57
+The Netherlands,view,53
+The Netherlands,great,52
+The Netherlands,good,41
+The Netherlands,nice,40
+The Netherlands,restaurant,40
+The Netherlands,dubrovnik,32
+The Netherlands,staff,27
+The Netherlands,friendly,27
+The Netherlands,location,24
+The Netherlands,really,22
+The Netherlands,amazing,19
+The Netherlands,place,16
+The Netherlands,time,16
+The Netherlands,wine,16
+The Netherlands,city,15
+The Netherlands,delicious,15
+The Netherlands,well,15
+The Netherlands,best,15
+The Netherlands,table,14
+The Netherlands,dinner,14
+The Netherlands,recommend,13
+The Netherlands,excellent,13
+The Netherlands,lunch,12
+The Netherlands,beautiful,12
+The Netherlands,some,11
+The Netherlands,experience,10
+The Netherlands,town,10
+The Netherlands,definitely,10
+Norway,food,64
+Norway,good,63
+Norway,restaurant,51
+Norway,view,43
+Norway,service,43
+Norway,great,34
+Norway,table,31
+Norway,dubrovnik,31
+Norway,nice,28
+Norway,best,23
+Norway,amazing,20
+Norway,here,20
+Norway,staff,19
+Norway,recommend,19
+Norway,really,18
+Norway,drinks,17
+Norway,well,16
+Norway,experience,15
+Norway,waiter,14
+Norway,friendly,14
+Norway,fantastic,14
+Norway,ordered,14
+Norway,location,13
+Norway,waiters,13
+Norway,place,13
+Norway,meal,13
+Norway,some,13
+Norway,dinner,12
+Norway,atmosphere,12
+Norway,booked,11
+Germany,food,54
+Germany,service,47
+Germany,view,43
+Germany,restaurant,39
+Germany,good,37
+Germany,dubrovnik,33
+Germany,great,28
+Germany,table,26
+Germany,place,24
+Germany,excellent,21
+Germany,friendly,20
+Germany,nice,20
+Germany,town,19
+Germany,here,15
+Germany,amazing,15
+Germany,recommend,15
+Germany,really,14
+Germany,location,14
+Germany,evening,14
+Germany,delicious,13
+Germany,much,13
+Germany,even,13
+Germany,prices,12
+Germany,attentive,12
+Germany,first,12
+Germany,more,12
+Germany,perfect,12
+Germany,quality,11
+Germany,staff,11
+Germany,fantastic,11
+Finland,good,56
+Finland,food,49
+Finland,restaurant,39
+Finland,service,37
+Finland,view,33
+Finland,place,31
+Finland,great,30
+Finland,dubrovnik,26
+Finland,dinner,24
+Finland,table,23
+Finland,excellent,22
+Finland,best,21
+Finland,nice,18
+Finland,city,17
+Finland,perfect,15
+Finland,delicious,15
+Finland,worth,14
+Finland,staff,13
+Finland,really,13
+Finland,town,13
+Finland,location,13
+Finland,breakfast,13
+Finland,lunch,12
+Finland,both,12
+Finland,views,11
+Finland,here,11
+Finland,evening,11
+Finland,friendly,10
+Finland,terrace,10
+Finland,quality,10
+Spain,food,44
+Spain,service,40
+Spain,restaurant,28
+Spain,good,28
+Spain,views,27
+Spain,great,23
+Spain,dubrovnik,21
+Spain,view,19
+Spain,best,18
+Spain,waiter,15
+Spain,experience,14
+Spain,staff,14
+Spain,really,14
+Spain,amazing,14
+Spain,nice,13
+Spain,dinner,13
+Spain,excellent,13
+Spain,visit,13
+Spain,place,12
+Spain,perfect,12
+Spain,went,11
+Spain,friendly,11
+Spain,time,11
+Spain,well,11
+Spain,beautiful,10
+Spain,table,10
+Spain,expensive,10
+Spain,meal,10
+Spain,worth,10
+Spain,wonderful,9
+Sweden,food,46
+Sweden,view,38
+Sweden,service,36
+Sweden,good,34
+Sweden,place,28
+Sweden,dubrovnik,27
+Sweden,restaurant,23
+Sweden,great,22
+Sweden,amazing,21
+Sweden,really,21
+Sweden,staff,20
+Sweden,table,17
+Sweden,here,17
+Sweden,best,17
+Sweden,dinner,16
+Sweden,nice,15
+Sweden,excellent,12
+Sweden,some,11
+Sweden,fantastic,10
+Sweden,recommend,10
+Sweden,wine,10
+Sweden,well,10
+Sweden,worth,10
+Sweden,drinks,10
+Sweden,took,10
+Sweden,location,10
+Sweden,friendly,9
+Sweden,town,9
+Sweden,back,9
+Sweden,time,9
+Switzerland,food,48
+Switzerland,view,43
+Switzerland,restaurant,40
+Switzerland,service,37
+Switzerland,good,32
+Switzerland,great,31
+Switzerland,dubrovnik,24
+Switzerland,nice,20
+Switzerland,table,17
+Switzerland,staff,17
+Switzerland,place,16
+Switzerland,friendly,15
+Switzerland,best,15
+Switzerland,excellent,14
+Switzerland,recommend,14
+Switzerland,location,13
+Switzerland,really,13
+Switzerland,delicious,13
+Switzerland,experience,12
+Switzerland,dinner,12
+Switzerland,here,12
+Switzerland,city,11
+Switzerland,every,11
+Switzerland,worth,10
+Switzerland,dishes,10
+Switzerland,terrace,10
+Switzerland,views,10
+Switzerland,evening,10
+Switzerland,attentive,9
+Switzerland,quality,9
+Singapore,service,39
+Singapore,food,38
+Singapore,restaurant,33
+Singapore,view,32
+Singapore,good,31
+Singapore,great,24
+Singapore,dubrovnik,21
+Singapore,place,19
+Singapore,best,14
+Singapore,here,13
+Singapore,views,12
+Singapore,city,12
+Singapore,excellent,12
+Singapore,really,12
+Singapore,town,11
+Singapore,wine,11
+Singapore,nice,10
+Singapore,dinner,9
+Singapore,friendly,9
+Singapore,didn,9
+Singapore,because,8
+Singapore,amazing,8
+Singapore,highly,8
+Singapore,recommended,8
+Singapore,night,8
+Singapore,staff,8
+Singapore,meal,8
+Singapore,restaurants,8
+Singapore,seafood,8
+Singapore,lunch,8
