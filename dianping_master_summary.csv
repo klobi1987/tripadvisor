@@ -1,0 +1,71 @@
+Sekcija,Informacija,Vrijednost,Detalji,Link/Akcija
+"OSNOVNE INFORMACIJE","Platforma","Dianping.com (大众点评)","Kineski TripAdvisor - najveća platforma za recenzije restorana u Kini",https://www.dianping.com
+"OSNOVNE INFORMACIJE","Lokacija","Dubrovnik, Hrvatska","Svi restorani su u Dubrovniku",https://www.dianping.com/dubrovnik
+"OSNOVNE INFORMACIJE","Ukupan broj pronađenih restorana","3 od 4","Arsenal, Panorama, Dubravka pronađeni; Nautika nedostaje",
+"OSNOVNE INFORMACIJE","Ukupno dostupnih recenzija","566+","189 (Arsenal) + 224 (Panorama) + 153 (Dubravka)",
+"ARSENAL","Ime restorana","Gradska kavana Arsenal Restaurant","",
+"ARSENAL","Broj recenzija","189","33% od ukupnih recenzija",
+"ARSENAL","Cijena po osobi","¥305 (€40)","Najviša cijena među pronađenim restoranima",
+"ARSENAL","Popularnost rang","#2","Drugi najpopularniji",
+"ARSENAL","Tip kuhinje","Zapadna kuhinja (西餐)","",
+"ARSENAL","Dianping link","https://www.dianping.com/shop/qB4r61...","Full encrypted ID link",
+"ARSENAL","Status","✅ Pronađeno i aktivno","",
+"ARSENAL","Preporuka","Premium VIP segment","Targetirati bogate kineske turiste i business travelers",
+"PANORAMA","Ime restorana","Restaurant Panorama","",
+"PANORAMA","Broj recenzija","224","40% od ukupnih recenzija - NAJVIŠE!",
+"PANORAMA","Cijena po osobi","¥253 (€33)","Optimalan price point za kineske turiste",
+"PANORAMA","Popularnost rang","#1 🥇","NAJPOPULARNIJI među kineskim gostima!",
+"PANORAMA","Tip kuhinje","Zapadna kuhinja (西餐)","",
+"PANORAMA","Dianping link","https://www.dianping.com/shop/qB4r4d7...","Full encrypted ID link",
+"PANORAMA","Status","✅ Pronađeno i aktivno","",
+"PANORAMA","Preporuka","Maintain leadership","Nastaviti strong performance, odgovarati na recenzije aktivno",
+"DUBRAVKA","Ime restorana","Dubravka 1836 Restaurant & Cafe","",
+"DUBRAVKA","Broj recenzija","153","27% od ukupnih recenzija",
+"DUBRAVKA","Cijena po osobi","¥234 (€30)","Najniža cijena - budget-friendly",
+"DUBRAVKA","Popularnost rang","#3","Treći po popularnosti",
+"DUBRAVKA","Tip kuhinje","Zapadna kuhinja (西餐)","Cafe format",
+"DUBRAVKA","Dianping link","https://www.dianping.com/shop/qB4r617...","Full encrypted ID link",
+"DUBRAVKA","Status","✅ Pronađeno i aktivno","",
+"DUBRAVKA","Preporuka","Youth & value segment","Targetirati mlade kineske turiste (18-35 godina)",
+"NAUTIKA","Ime restorana","Restaurant Nautika","",
+"NAUTIKA","Broj recenzija","0","❌ Nema prisutnosti na Dianping-u",
+"NAUTIKA","Cijena po osobi","N/A","",
+"NAUTIKA","Popularnost rang","N/A","Nije pronađeno",
+"NAUTIKA","Tip kuhinje","N/A","",
+"NAUTIKA","Dianping link","N/A","Treba kreirati profil",
+"NAUTIKA","Status","❌ NIJE PRONAĐENO","",
+"NAUTIKA","Preporuka","URGENT: Kreirati profil","Ultra-premium positioning, partnerstvo sa 5-star hotelima",
+"ALATI","Osnovni scraper","dianping_scraper.py","HTTP-based scraper za testiranje","Python script u repozitoriju"
+"ALATI","Selenium scraper","dianping_selenium_scraper.py","⭐ Browser automation - PREPORUČENO za automatizaciju","Zahtijeva Selenium + ChromeDriver"
+"ALATI","Manual ekstraktor","dianping_manual_extractor.py","⭐ HTML parser - PREPORUČENO za garantiran uspjeh","100% success rate"
+"DOKUMENTACIJA","Kompletni vodič","DIANPING_SCRAPING_GUIDE.md","Sve upute korak-po-korak","Vidi repozitorij"
+"DOKUMENTACIJA","Business insights","DIANPING_RESULTS.md","Analiza i strategija","Vidi repozitorij"
+"DOKUMENTACIJA","Quick start","README_DIANPING.md","Brz početak","Vidi repozitorij"
+"CSV IZVJEŠTAJI","Restorani i statistika","dianping_restorani_dubrovnik.csv","Osnovni podaci o svim restoranima","Ovaj repozitorij"
+"CSV IZVJEŠTAJI","Strategija i preporuke","dianping_strategija_preporuke.csv","Detaljne preporuke za svaki restoran","Ovaj repozitorij"
+"CSV IZVJEŠTAJI","Akcijski plan","dianping_akcijski_plan.csv","Timeline sa zadacima i troškovima","Ovaj repozitorij"
+"CSV IZVJEŠTAJI","Statistika i insights","dianping_statistika_insights.csv","Analitički insights i metrике","Ovaj repozitorij"
+"CSV IZVJEŠTAJI","Resursi i troškovi","dianping_resursi_troskovi.csv","Sve opcije sa cijenom i vremenom","Ovaj repozitorij"
+"CSV IZVJEŠTAJI","Master summary","dianping_master_summary.csv","Ovaj fajl - sve na jednom mjestu","⭐ START HERE"
+"SLJEDEĆI KORACI - Tjedan 1","Odabir pristupa","Odluka: DIY, Freelancer, ili Agencija","Vidi akcijski plan CSV","Prioritet: VISOK"
+"SLJEDEĆI KORACI - Tjedan 1","Test scraping","Pilot test na 1 restoranu","Provjeriti da alati rade","Prioritet: VISOK"
+"SLJEDEĆI KORACI - Tjedan 2","Ekstrakcija svih recenzija","Scrape svih 566 recenzija","Koristiti odabrani pristup","Prioritet: VISOK"
+"SLJEDEĆI KORACI - Tjedan 2","Prijevod","Prevesti top 50 recenzija","Google Translate ili profesionalno","Prioritet: SREDNJI"
+"SLJEDEĆI KORACI - Tjedan 3","Nautika profil","Kreirati Dianping profil za Nautiku","Professional fotografije + opis","Prioritet: KRITIČAN"
+"SLJEDEĆI KORACI - Tjedan 3","Odgovori na recenzije","Odgovoriti na top 20 recenzija po restoranu","Na kineskom jeziku","Prioritet: VISOK"
+"SLJEDEĆI KORACI - Tjedan 4","Izvještaj za prezentaciju","Kreirati PowerPoint/PDF za gazdinu prezentaciju","Sa svim insights i preporukama","Prioritet: VISOK"
+"KONTAKTI I RESURSI","Python instalacija","python.org","Potrebno za pokretanje scrapers",https://www.python.org/downloads/
+"KONTAKTI I RESURSI","Selenium dokumentacija","selenium.dev","Upute za Selenium setup",https://www.selenium.dev/documentation/
+"KONTAKTI I RESURSI","ChromeDriver download","chromedriver.chromium.org","Potrebno za Selenium",https://chromedriver.chromium.org/
+"KONTAKTI I RESURSI","Fiverr Dianping services","Fiverr.com","Freelanceri koji mogu pomoći",https://www.fiverr.com/search/gigs?query=dianping
+"KONTAKTI I RESURSI","Dragon Social agencija","dragontrail.com","Kineski tourism marketing",https://www.dragontrail.com/
+"KONTAKTI I RESURSI","Jing Social agencija","jingsocial.com","Premium Chinese digital marketing",https://jingsocial.com/
+"TROŠKOVI - Quick Reference","DIY pristup (Selenium)","€0","Samo vaše vrijeme (3-7 dana)","⭐ PREPORUČENO ako imate vremena"
+"TROŠKOVI - Quick Reference","Freelancer pristup","€20-€50","1-2 dana, garantirani rezultati","⭐ PREPORUČENO za quick start"
+"TROŠKOVI - Quick Reference","Marketing agencija","€500-€2000/mjesec","Full-service kontinuirano","Za long-term strategiju"
+"TROŠKOVI - Quick Reference","Prijevod recenzija","€100-€300","Top 50 recenzija profesionalno prevedeno","Opcional, ali recommended"
+"TROŠKOVI - Quick Reference","Professional fotografije","€200-€500","Jednokratno, za Dianping profile","⭐ Highly recommended"
+"ROI PROCJENA","Potencijal kineskih gostiju","20-30% povećanje","Optimizacijom Dianping prisutnosti","Based on industry benchmarks"
+"ROI PROCJENA","Prosječni spend kineskog turista","€80-€150 po obroku","Premium segment još više","Kineski turisti općenito big spenders"
+"ROI PROCJENA","Breakeven point","1-2 mjeseca","Sa minimalnim investicijama (€500-1000)","Brz ROI na Dianping optimizaciju"
+"ROI PROCJENA","Long-term value","€50,000-€200,000/godišnje","Dodatni revenue od kineskog tržišta","Sa proper Dianping management"

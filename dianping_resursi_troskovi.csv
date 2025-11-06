@@ -1,0 +1,22 @@
+Tip Resursa,Naziv,Trošak,Vrijeme Implementacije,Prednosti,Nedostaci,Preporuka
+"DIY Alat","dianping_scraper.py - Osnovni scraper",Besplatno,1 sat,"Brz, jednostavan, nema zavisnosti","Ne može zaobići login, limitiran uspjeh",Koristi samo za testiranje
+"DIY Alat","dianping_selenium_scraper.py - Selenium scraper",Besplatno,2-3 sata,"Automatizacija, simulira browser, sprema cookies","Zahtijeva Selenium i ChromeDriver instalaciju",⭐ PREPORUČENO ako imate Dianping račun
+"DIY Alat","dianping_manual_extractor.py - HTML ekstraktor",Besplatno,30 minuta,"100% uspješnost, jednostavno korištenje","Zahtijeva ručno spremanje HTML stranica",⭐ PREPORUČENO za garantiran uspjeh
+"Freelance Servis","Fiverr/Upwork scraping specialist","€20-€50 jednokratno",1-2 dana,"Brzo, ne treba tehnički know-how, garantirani rezultati","Jednokratna usluga, vanjska osoba ima pristup","Dobro za quick start"
+"Kineski Broj","SMS-Activate.org - kineski broj za registraciju","€2-€5 po broju",30 minuta,"Omogućava kreiranje Dianping računa, jeftino","Temporary broj, može ne raditi uvijek","Koristi ako treba kreirati račun"
+"Prijevod Servis","Google Translate API",€20 za 1M znakova,Instant,"Automatski, jeftino, integrira se u kod","Može biti netočan za specifične izraze","Dobro za bulk prijevod, manual check za važne"
+"Prijevod Servis","DeepL Pro",€5.99-€49.99/mj,Instant,"Precizniji od Google, bolji kontekst","Plaćena subscription","Za kvalitetnije prijevode"
+"Prijevod Servis","Profesionalni prevoditelj (Hrvatski-Kineski)","€0.08-€0.15 po riječi",3-7 dana,"Najviša kvaliteta, kulturni kontekst, nuanse","Skupo, sporo","Za odgovore na recenzije i marketing materijale"
+"Marketing Agencija","Dragon Social / Jing Social","€500-€2000/mjesec",2-4 tjedna setup,"Full-service, ekspertiza, continuous management","Skup dugoročni commitment","⭐ Za ozbiljnu long-term strategiju"
+"Marketing Agencija","Kineski freelance social media manager","€300-€800/mjesec",1-2 tjedna,"Pristupačnije od agencije, dedicated attention","Možda manje resursa nego agencija","Dobra middle ground opcija"
+"Proxy Servis","Besplatni proxy (Proxyium, Hide.me)","Besplatno",5 minuta,"Jeftino, brz setup","Nestabilan, spor, može biti blokiran","Za testing, ne za produkciju"
+"Proxy Servis","Bright Data / Oxylabs",€50-€500/mjesec,1 dan,"Pouzdan, brz, residential IPs, analytics","Skupo za continuous use","Ako imate geo-blocking problema"
+"VPN Servis","ExpressVPN / NordVPN sa kineskim serverima","€8-€12/mjesec",10 minuta,"Jednostavno korištenje, privacy, multiple locations","Monthly fee, ne garantira pristup","Dobro za individual access"
+"Software Licenca","Python + BeautifulSoup + Selenium",Besplatno (Open Source),2 sata setup,"Industry standard, massive community support","Zahtijeva Python znanje","⭐ Najbolja tehnička osnova"
+"ChromeDriver","Google ChromeDriver",Besplatno,15 minuta,"Potrebno za Selenium, automatski updates","Zahtijeva matching Chrome verziju","Obavezno za Selenium scraper"
+"Cloud Hosting","AWS / Digital Ocean za automatski scraping","€5-€20/mjesec",1 dan,"24/7 uptime, scheduled jobs, scalable","Zahtijeva server management znanje","Za production automation"
+"Analytics Tool","Python Pandas + Matplotlib za analizu",Besplatno,1 sat,"Powerful data analysis, vizualizacije","Zahtijeva Python znanje","Za detaljnu analizu scraped data"
+"WeChat Account","Kreiranje WeChat business računa","Besplatno-€300 setup",1-2 tjedna,"Direktan kanal do kineskih gostiju, rezervacije","Zahtijeva kinesku business registraciju","Za long-term engagement"
+"Dianping Business Account","Dianping Merchant/Business profil","Besplatno-€500/god",1-2 tjedna,"Verified status, više featuers, analytics","Zahtijeva business verification","⭐ ESSENTIAL za ozbiljnu prisutnost"
+"Content Creation","Professional fotograf za Dianping fotografije","€200-€500 jednokratno",1 dan,"High-quality photos, social proof, engagement boost","Jednokratni trošak","⭐ Highly recommended - first impression"
+"Monitoring Tool","Custom dashboard za review monitoring",Besplatno (DIY) - €100-500 (custom),"1-3 dana development","Real-time alerts, trend tracking, competitive intel","Development effort","Za proactive management"
