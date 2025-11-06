@@ -1,0 +1,9 @@
+country,reviews,pct_asian,rating,sentiment_positive,sentiment_negative,top_priority,food_preference,avg_check_est,growth_potential,digital_presence,urgent_action,investment_needed,roi_projection
+Singapore,58,29.0%,4.55,70.7%,3.4%,Service > Food,Seafood & Wine,85€,Medium,Partial,Expand premium positioning,8000€,2x in 12mo
+China,48,24.0%,4.63,77.1%,2.1%,Recommend & Quality,Wine & Seafood,90€,HUGE,ZERO,Dianping + WeChat + Xiaohongshu,20000€,5x in 12mo
+India,45,22.5%,4.53,71.1%,6.7%,Food & Value,Vegetarian-aware,70€,High,Minimal,Wedding market + Family packages,5000€,3x in 18mo
+Japan,14,7.0%,4.64,64.3%,0.0%,Quality & Detail,Wine culture,100€,Medium,ZERO,Tabelog + Premium positioning,6000€,2x in 18mo
+South Korea,13,6.5%,4.92,76.9%,0.0%,View & Instagram,Photogenic food,80€,High,ZERO,Instagram + Naver + KakaoMap,10000€,3x in 12mo
+Thailand,12,6.0%,4.58,75.0%,0.0%,Perfect Service,Service-focused,85€,Low,Minimal,Maintain,2000€,1.5x
+Malaysia,10,5.0%,4.70,70.0%,0.0%,Service,Halal-aware,75€,Low,Minimal,Halal-friendly options,3000€,1.5x
+TOTAL ASIA,200,100%,4.62,72.5%,2.5%,Service & Quality,Seafood & Wine,82€,VERY HIGH,10%,Multi-platform strategy,35000€,4-6x in 24mo
