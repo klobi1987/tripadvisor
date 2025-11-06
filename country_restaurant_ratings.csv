@@ -1,0 +1,16 @@
+country,arsenal_rating,arsenal_sentiment,arsenal_reviews,nautika_rating,nautika_sentiment,nautika_reviews,panorama_rating,panorama_sentiment,panorama_reviews,dubravka_rating,dubravka_sentiment,dubravka_reviews,favorite_restaurant,reason
+United Kingdom,4.82,0.785,824,4.84,0.720,445,4.69,0.699,1185,4.49,0.733,947,Arsenal,Best balance of view and service
+USA,4.82,0.790,349,4.82,0.707,325,4.72,0.735,337,4.55,0.744,305,Arsenal/Nautika,Tied - experience matters
+Australia,4.89,0.835,72,4.75,0.621,44,4.66,0.699,92,4.44,0.704,105,Arsenal,Highest sentiment (0.835!)
+Ireland,4.68,0.729,71,4.62,0.698,21,4.70,0.706,91,4.39,0.771,74,Panorama,View-driven choice
+Canada,4.79,0.705,43,4.89,0.847,27,4.77,0.795,64,4.25,0.709,68,Nautika,Premium experience (0.847!)
+Croatia,4.86,0.783,36,4.70,0.730,23,4.92,0.835,48,4.85,0.784,67,Panorama,Local pride in best view
+France,4.66,0.726,44,4.73,0.677,11,4.54,0.599,28,4.41,0.789,39,Nautika,Quality over quantity
+Germany,4.88,0.793,25,4.86,0.887,14,4.67,0.630,18,4.65,0.873,23,Nautika,Premium quality (0.887!)
+Netherlands,4.87,0.861,23,4.42,0.666,12,4.61,0.628,23,4.32,0.678,34,Arsenal,Exceptional sentiment
+Norway,4.95,0.798,21,4.73,0.622,15,4.57,0.613,28,4.45,0.762,20,Arsenal,Highest rating (4.95!)
+Finland,4.50,0.714,12,4.67,0.714,6,4.38,0.656,21,4.38,0.719,38,Nautika,Quality focus
+Spain,4.67,0.667,18,5.00,0.800,5,4.50,0.500,22,4.58,0.693,24,Nautika,Perfect 5.0 rating!
+Sweden,4.73,0.758,11,5.00,1.000,4,4.31,0.607,29,4.42,0.743,21,Nautika,Perfect sentiment!
+Switzerland,4.79,0.786,14,5.00,0.800,5,4.50,0.578,18,4.44,0.683,28,Nautika,Premium choice
+Singapore,4.69,0.750,16,4.75,0.625,8,4.50,0.650,20,4.50,0.750,14,Nautika,Consistent quality
