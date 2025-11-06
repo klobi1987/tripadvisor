@@ -1,0 +1,31 @@
+region,operator_name,market,size,type,contact_priority,commission_standard,avg_group_size,annual_potential_groups,revenue_potential,notes
+China,Ctrip (携程),China,Largest,Online + Tours,🔴 HIGHEST,10-15%,20-30,30-40,42000€,#1 Chinese OTA - MUST partner
+China,CYTS (中青旅),China,Very Large,State operator,🔴 HIGHEST,10-12%,25-35,20-30,31500€,State-owned - reliable volume
+China,GZL Travel,China,Large,Luxury groups,🟠 HIGH,12-15%,8-12,15-20,15750€,Premium segment - higher spend
+China,China Travel Service (CTS),China,Large,Traditional,🟠 HIGH,10-12%,20-30,15-25,26250€,Established operator
+China,Caissa Touristic,China,Medium,Luxury,🟡 MEDIUM,12-15%,10-15,10-15,13125€,High-end groups
+China,Utour Group,China,Medium,Online,🟡 MEDIUM,10-12%,15-20,10-15,13125€,Growing operator
+Japan,JTB Corp,Japan,Largest,Full service,🔴 HIGHEST,10-12%,15-25,8-12,9000€,#1 Japanese operator
+Japan,HIS (H.I.S.),Japan,Large,Budget-mid,🟠 HIGH,10-12%,12-20,6-10,6750€,Youth & budget focus
+Japan,Club Tourism,Japan,Large,Senior focus,🟠 HIGH,10-12%,20-30,8-12,10800€,Senior tours - perfect fit
+Japan,KNT-CT Holdings,Japan,Large,Traditional,🟡 MEDIUM,10-12%,15-20,5-8,6075€,Traditional groups
+Japan,Hankyu Travel,Japan,Medium,Luxury,🟡 MEDIUM,12-15%,8-12,4-6,4725€,Premium segment
+Korea,Hana Tour,South Korea,Largest,Full service,🔴 HIGHEST,10-12%,15-20,10-15,9750€,#1 Korean operator
+Korea,Mode Tour,South Korea,Large,Mid-range,🟠 HIGH,10-12%,12-18,8-12,7800€,Popular with families
+Korea,Very Good Tour,South Korea,Medium,Budget,🟡 MEDIUM,8-10%,15-25,6-10,5850€,Budget tours
+Korea,Lotte Tour,South Korea,Medium,Department store,🟡 MEDIUM,10-12%,10-15,5-8,4875€,Lotte brand
+Singapore,Dynasty Travel,Singapore,Large,Full service,🟠 HIGH,10-15%,8-12,5-8,5100€,Premium positioning
+Singapore,Chan Brothers Travel,Singapore,Large,Popular,🟠 HIGH,10-12%,10-15,5-8,5525€,Family focus
+Singapore,ASA Holidays,Singapore,Medium,Mid-range,🟡 MEDIUM,10-12%,8-12,3-5,3400€,Good reputation
+India,Cox & Kings,India,Largest,Luxury,🔴 HIGHEST,12-15%,15-25,15-20,16500€,Premium operator
+India,Thomas Cook India,India,Large,Full service,🟠 HIGH,10-12%,20-30,12-18,16200€,Established brand
+India,MakeMyTrip,India,Large,Online,🟠 HIGH,10-12%,15-20,10-15,12375€,Largest OTA
+India,Yatra,India,Medium,Online,🟡 MEDIUM,10-12%,12-18,8-12,9900€,Growing OTA
+India,SOTC Travel,India,Medium,Mid-range,🟡 MEDIUM,10-12%,15-20,8-12,11000€,Popular operator
+Thailand,Diethelm Travel,Thailand,Large,Luxury,🟠 HIGH,12-15%,6-10,5-8,4750€,High-end Southeast Asia
+Thailand,Asian Trails,Thailand,Medium,Mid-range,🟡 MEDIUM,10-12%,8-12,4-6,3800€,Regional operator
+UAE,Arabian Adventures,UAE,Large,Premium,🟠 HIGH,12-15%,8-12,6-10,7650€,Dubai-based luxury
+UAE,Rayna Tours,UAE,Medium,Mid-range,🟡 MEDIUM,10-12%,10-15,5-8,6400€,Established UAE operator
+Regional,Abercrombie & Kent,Global,Luxury,Ultra-luxury,🟡 MEDIUM,15-18%,6-10,3-5,5625€,Ultra high-end
+Regional,Insight Vacations,Global,Large,Premium,🟡 MEDIUM,12-15%,25-35,5-8,18375€,Large coach tours
+TOTAL,30+ operators,Multi-region,-,-,Prioritize 15 top,-,15 avg,260-395 groups,~290000€,Year 2 realistic target

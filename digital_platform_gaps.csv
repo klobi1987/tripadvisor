@@ -1,0 +1,16 @@
+platform,target_market,users_million,importance,current_status,setup_cost,monthly_maintenance,timeline_days,expected_reviews_year1,revenue_impact
+Dianping (大众点评),China,600M,🔴 CRITICAL,❌ Not present,5000€,500€,60,150-200,+80000€
+WeChat Official Account,China,1300M,🔴 CRITICAL,❌ Not present,3000€,400€,45,N/A (Marketing),+50000€
+Xiaohongshu (小红书),China,300M,🟠 HIGH,❌ Not present,4000€,600€,60,100-150,+60000€
+WeChat Pay,China,900M,🟠 HIGH,❌ Not present,2000€,100€,30,N/A (Convenience),+30000€
+Ctrip/Trip.com,China,400M,🟡 MEDIUM,Partial,1000€,200€,30,50-80,+25000€
+Naver (네이버),South Korea,45M,🟠 HIGH,❌ Not present,2000€,300€,30,40-60,+25000€
+KakaoMap (카카오맵),South Korea,40M,🟠 HIGH,❌ Not present,1500€,200€,30,30-40,+15000€
+Instagram KR Strategy,South Korea,20M,🟠 HIGH,Partial (no KR hashtags),500€,300€,14,60-80,+30000€
+Tabelog (食べログ),Japan,130M,🟡 MEDIUM,❌ Not present,Invite only,500€,180,20-30,+20000€
+Zomato,UAE/India,50M,🟡 MEDIUM,Partial,1000€,200€,30,40-60,+20000€
+Arabic Website,Middle East,400M,🟠 HIGH,❌ Not present,3000€,100€,45,N/A (Marketing),+40000€
+TripAdvisor,Global,490M,✅ DONE,✅ Present,0€,0€,0,Current baseline,Existing
+Google Reviews,Global,4000M,✅ DONE,✅ Present,0€,0€,0,Current baseline,Existing
+Instagram (current),Global,2000M,✅ DONE,✅ Present (not optimized),0€,200€,0,Current baseline,Existing
+Total Investment Needed,All Asian markets,-,🔴 URGENT,10% coverage,23000€,3500€/mo,180 days,490-700 new reviews,+395000€/year

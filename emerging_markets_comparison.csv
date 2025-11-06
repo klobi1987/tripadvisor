@@ -1,0 +1,7 @@
+region,total_reviews,avg_rating,sentiment_positive,key_countries,growth_rate,spending_power,current_revenue_est,potential_revenue,priority,key_action
+Asia,200,4.62,72.5%,"Singapore, China, India, Korea",15-20%/year,High,50000€,250000€,🔥 HIGHEST,Digital platforms presence
+Middle East,76,4.67,73.0%,"UAE, Lebanon, Israel",12-15%/year,Very High,35000€,120000€,🔥 HIGH,Halal-friendly + Arabic site
+Latin America,27,4.65,80.0%,"Argentina, Mexico",10%/year,Medium,15000€,45000€,🟡 MEDIUM,Explore & test
+Eastern Europe,98,4.70,79.0%,"Czech, Poland, Romania, Serbia",8-10%/year,Medium,40000€,80000€,🟢 MAINTAIN,Regional campaigns
+Western Europe (baseline),8900,4.68,73.5%,"UK, USA, Germany, France",2-3%/year,High,1200000€,1500000€,✅ STABLE,Optimize existing
+Total Emerging,401,4.65,75.0%,All above markets,12%/year average,High,140000€,495000€,🚀 PRIORITY,First mover advantage
