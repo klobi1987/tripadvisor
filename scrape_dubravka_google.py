@@ -48,16 +48,53 @@ class DubravkaScraper:
         """Setup Chrome with anti-detection"""
         chrome_options = Options()
 
-        if self.headless:
-            chrome_options.add_argument('--headless=new')
+        # Always use headless in server environment
+        chrome_options.add_argument('--headless=new')
 
-        # Anti-detection & optimization
+        # Critical for Docker/sandbox environments
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--disable-software-rasterizer')
+        chrome_options.add_argument('--disable-extensions')
+
+        # Anti-detection
         chrome_options.add_argument('--disable-blink-features=AutomationControlled')
         chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
         chrome_options.add_argument('--window-size=1920,1080')
         chrome_options.add_argument('--lang=hr-HR,hr,en-US,en')
+
+        # Additional sandbox options
+        chrome_options.add_argument('--disable-setuid-sandbox')
+        chrome_options.add_argument('--ignore-certificate-errors')
+        chrome_options.add_argument('--allow-running-insecure-content')
+
+        # Stability options for server environments
+        chrome_options.add_argument('--disable-crash-reporter')
+        chrome_options.add_argument('--disable-in-process-stack-traces')
+        chrome_options.add_argument('--disable-logging')
+        chrome_options.add_argument('--disable-features=VizDisplayCompositor')
+        chrome_options.add_argument('--disable-features=IsolateOrigins,site-per-process')
+        chrome_options.add_argument('--disable-features=BlockInsecurePrivateNetworkRequests')
+        chrome_options.add_argument('--disable-web-security')
+        chrome_options.add_argument('--allow-insecure-localhost')
+        chrome_options.add_argument('--remote-debugging-port=9222')
+        chrome_options.add_argument('--disable-background-networking')
+        chrome_options.add_argument('--disable-background-timer-throttling')
+        chrome_options.add_argument('--disable-backgrounding-occluded-windows')
+        chrome_options.add_argument('--disable-breakpad')
+        chrome_options.add_argument('--disable-component-extensions-with-background-pages')
+        chrome_options.add_argument('--disable-features=TranslateUI')
+        chrome_options.add_argument('--disable-ipc-flooding-protection')
+        chrome_options.add_argument('--metrics-recording-only')
+        chrome_options.add_argument('--mute-audio')
+        chrome_options.add_argument('--disable-hang-monitor')
+        chrome_options.add_argument('--disable-prompt-on-repost')
+        chrome_options.add_argument('--disable-sync')
+
+        # Memory options
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument('--shm-size=2gb')
 
         # Performance
         chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -119,6 +156,47 @@ class DubravkaScraper:
 
         print("\n❌ Failed to open any URL")
         return False
+
+    def accept_google_consent(self) -> bool:
+        """Click Google consent/privacy buttons if present"""
+        try:
+            print("\n🍪 Checking for Google consent/privacy popups...")
+
+            # Common Google consent button selectors
+            consent_button_selectors = [
+                # English
+                "//button[contains(., 'Accept all')]",
+                "//button[contains(., 'I agree')]",
+                "//button[contains(., 'Agree')]",
+                "//button[@aria-label='Accept all']",
+                "//button[contains(@class, 'VfPpkd')]//span[contains(., 'Accept')]",
+                # Croatian
+                "//button[contains(., 'Prihvaćam')]",
+                "//button[contains(., 'Prihvati sve')]",
+                "//button[contains(., 'Slažem se')]",
+                # Generic
+                "//button[contains(@jsname, 'higCR')]",  # Google's "Accept" button
+                "//div[@role='dialog']//button[2]",  # Second button in dialog (usually "Accept")
+            ]
+
+            for selector in consent_button_selectors:
+                try:
+                    button = WebDriverWait(self.driver, 3).until(
+                        EC.element_to_be_clickable((By.XPATH, selector))
+                    )
+                    button.click()
+                    print(f"✅ Clicked consent button")
+                    time.sleep(2)
+                    return True
+                except:
+                    continue
+
+            print("   No consent popup found (or already accepted)")
+            return True
+
+        except Exception as e:
+            print(f"   No consent popup (continuing anyway)")
+            return True
 
     def click_all_reviews(self) -> bool:
         """Click to show all reviews"""
@@ -625,6 +703,10 @@ class DubravkaScraper:
             self.cleanup()
             return False
 
+        # Accept Google consent/privacy popup
+        time.sleep(3)
+        self.accept_google_consent()
+
         # Click to show reviews
         time.sleep(2)
         self.click_all_reviews()
@@ -719,7 +801,7 @@ def main():
 
     try:
         # Configuration
-        HEADLESS = False  # Set to True to run without GUI
+        HEADLESS = True  # Must be True for server-side execution
         MAX_SCROLLS = 300  # Increase if needed for more reviews
 
         print(f"\n⚙️  Configuration:")
