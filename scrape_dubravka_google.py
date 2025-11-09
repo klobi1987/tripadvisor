@@ -105,15 +105,21 @@ class DubravkaScraper:
         })
 
         try:
+            # Try to use Chrome binary explicitly
+            chrome_options.binary_location = '/usr/bin/google-chrome'
+
             self.driver = webdriver.Chrome(options=chrome_options)
 
             # Mask webdriver
-            self.driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
-                'source': '''
-                    Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
-                    Object.defineProperty(navigator, 'plugins', {get: () => [1, 2, 3, 4, 5]});
-                '''
-            })
+            try:
+                self.driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+                    'source': '''
+                        Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
+                        Object.defineProperty(navigator, 'plugins', {get: () => [1, 2, 3, 4, 5]});
+                    '''
+                })
+            except:
+                pass  # CDP commands might fail in headless, continue anyway
 
             print("✅ Chrome driver initialized")
             return True
