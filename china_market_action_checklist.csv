@@ -1,0 +1,215 @@
+Phase,Week,Action Item,Platform/Area,Responsible Party,Budget,Success Metric,Notes,Priority
+FOUNDATION,Week 1,Select Chinese digital marketing agency,Agency Partners,Restaurant Marketing Director,€0 (research),Proposals from 3 agencies received,"Interview Dragon Trail, Hot Pot Digital, Jing Social",CRITICAL
+FOUNDATION,Week 1,Create Nautika Dianping profile,Dianping,Agency + Restaurant Team,€1000,"Profile live, first 5 reviews",Critical gap - Nautika not listed,CRITICAL
+FOUNDATION,Week 1,Request WeChat Pay integration quotes,Payment,Finance Team,€0 (research),3 quotes received,Contact Silkpay and local processors,CRITICAL
+FOUNDATION,Week 1,Request Alipay integration quotes,Payment,Finance Team,€0 (research),3 quotes received,Contact Silkpay and local processors,CRITICAL
+FOUNDATION,Week 1,Commission Chinese menu translation,Translation,Operations Manager,€1500,All 4 menus translated professionally,"Native speaker, not Google Translate",CRITICAL
+FOUNDATION,Week 2,Contract selected agency,Agency Partners,Restaurant Marketing Director,€3000-5000/month,Contract signed and kickoff scheduled,Retainer agreement for 6 months minimum,CRITICAL
+FOUNDATION,Week 2,Sign WeChat Pay integration,Payment,Finance Team,€500-750 setup,Integration scheduled,Also covers transaction fees 2-3%,CRITICAL
+FOUNDATION,Week 2,Sign Alipay integration,Payment,Finance Team,€500-750 setup,Integration scheduled,Also covers transaction fees 2-3%,CRITICAL
+FOUNDATION,Week 2,Optimize existing Dianping profiles,Dianping,Agency,€500,Professional photos uploaded for Arsenal/Panorama/Dubravka,Better presentation drives reviews,HIGH
+FOUNDATION,Week 3,Install WeChat Pay terminals,Payment,Operations + IT,Included in setup,Working at all 4 locations,Test thoroughly before launch,CRITICAL
+FOUNDATION,Week 3,Install Alipay terminals,Payment,Operations + IT,Included in setup,Working at all 4 locations,Test thoroughly before launch,CRITICAL
+FOUNDATION,Week 3,Print Chinese menus,Translation,Operations Manager,€400,Menus available at all locations,"Print backups, also digital versions",HIGH
+FOUNDATION,Week 3,Implement QR multilingual menus,Technology,Operations + IT,€800-1200,QR codes on all tables,"23+ languages, Chinese prominent",HIGH
+FOUNDATION,Week 3,Create payment acceptance signage,Payment,Operations Manager,€200,"Signs at entrance and tables, Chinese language",欢迎使用微信支付/支付宝,MEDIUM
+FOUNDATION,Week 4,Launch WeChat Pay,Payment,All Staff,€0,First successful Chinese payment,Train staff on troubleshooting,CRITICAL
+FOUNDATION,Week 4,Launch Alipay,Payment,All Staff,€0,First successful Chinese payment,Train staff on troubleshooting,CRITICAL
+FOUNDATION,Week 4,Create Xiaohongshu accounts,Xiaohongshu,Agency,€300,Accounts created for all 4 restaurants,Username strategy: english + Chinese,HIGH
+FOUNDATION,Week 4,Create WeChat Official Accounts,WeChat,Agency,€400,Accounts verified and active,Apply for verification (blue checkmark),HIGH
+FOUNDATION,Week 4,Staff training: Payment systems,Training,HR + Operations,€200,All staff trained on WeChat Pay/Alipay,Include troubleshooting guide,HIGH
+FOUNDATION,Week 4,Staff training: Basic Mandarin,Training,HR + Agency,€300,"5-10 essential phrases learned: 你好, 谢谢, etc.",Ongoing reinforcement needed,MEDIUM
+
+VISIBILITY,Week 5,Post initial Xiaohongshu content,Xiaohongshu,Agency + Marketing,€500,10-15 posts across 4 accounts,High-quality photos essential,HIGH
+VISIBILITY,Week 5,Launch WeChat Official Account content,WeChat,Agency,€300,First 3 articles published,Welcome message + 2 restaurant features,HIGH
+VISIBILITY,Week 5,Research mid-tier KOLs,Influencer Marketing,Agency,€0 (included in retainer),Shortlist of 5-8 KOLs,"Target: 100K-500K followers, food/travel focus",HIGH
+VISIBILITY,Week 6,Optimize Nautika Dianping profile,Dianping,Agency,€500,Professional photos and description,Premium positioning ¥500-800pp,CRITICAL
+VISIBILITY,Week 6,Create Trip.com restaurant listings,Ctrip/Trip.com,Agency,€800,All 4 restaurants listed,Start with basic free listings,HIGH
+VISIBILITY,Week 6,Select 2-3 KOLs for fam trip,Influencer Marketing,Agency + Marketing Director,€0,Contracts signed with selected KOLs,Negotiate deliverables clearly,HIGH
+VISIBILITY,Week 7,Optimize Trip.com listings,Ctrip/Trip.com,Agency,€700,"Premium photos, Chinese descriptions",Highlight view and location,HIGH
+VISIBILITY,Week 7,Plan KOL fam trip logistics,Influencer Marketing,Operations + Agency,€1000,Detailed itinerary created,"2-3 days in Dubrovnik, visit all 4 restaurants",HIGH
+VISIBILITY,Week 8,Execute KOL fam trip,Influencer Marketing,All Departments,€5000-8000,"2-3 KOLs visit, content created","Flights, accommodation, dining, experiences",CRITICAL
+VISIBILITY,Week 8,Facilitate KOL content creation,Influencer Marketing,Marketing + Operations,Included,50+ photos and 10+ videos captured,Golden hour timing essential,CRITICAL
+VISIBILITY,Week 9,KOL content goes live,Influencer Marketing,KOLs + Agency,Included,"Posts on Weibo, XHS, Douyin",Amplify through restaurant accounts,CRITICAL
+VISIBILITY,Week 9,Create Douyin accounts,Douyin,Agency,€200,Accounts created for all 4 restaurants,Short video platform,HIGH
+VISIBILITY,Week 9,Produce initial Douyin videos,Douyin,Agency + Marketing,€2000,3-5 professional videos,"15-60 seconds, food/view focus",HIGH
+VISIBILITY,Week 10,Amplify KOL content,Influencer Marketing,Agency,€500,Share and engage across all platforms,Thank KOLs publicly in Chinese,HIGH
+VISIBILITY,Week 10,Post Douyin videos,Douyin,Agency,€300,Videos live with hashtags,Monitor engagement and comments,MEDIUM
+VISIBILITY,Week 10,Analyze KOL campaign results,Analytics,Agency,Included,Report on reach and engagement,Impressions target: 500K-2M,HIGH
+VISIBILITY,Week 11,Launch Weibo accounts,Weibo,Agency,€200,Accounts created for all 4 restaurants,Cross-post from other platforms,MEDIUM
+VISIBILITY,Week 11,Run Douyin in-feed ads,Douyin,Agency,€1500,Video ads running with targeting,Target: Chinese tourists planning Europe travel,MEDIUM
+VISIBILITY,Week 12,Create aesthetic improvements,Restaurant Operations,Operations Manager,€1000-2000,Photo spots designated with good lighting,"Especially Panorama sunset, Arsenal heritage",HIGH
+VISIBILITY,Week 12,First analytics review,Analytics,Agency + Marketing Director,Included,"Dashboard showing: platforms, guests, revenue",Track Chinese guest count manually,CRITICAL
+
+SCALE,Week 13,Research top-tier KOLs,Influencer Marketing,Agency,Included,Shortlist of 3-5 top KOLs,"Target: 1M+ followers, Molly, Nono, Mia Zhang type",HIGH
+SCALE,Week 13,Begin WeChat Mini Program development,WeChat,Agency + Developer,€3000-4000,Development started,"Features: Menu, reservation, payment, loyalty",HIGH
+SCALE,Week 14,Create Fliggy merchant accounts,Fliggy,Agency,€500,Accounts created,Alibaba ecosystem integration,MEDIUM
+SCALE,Week 14,Develop group dining packages,Tour Operators,Operations + Marketing,€500,"Set menus created: ¥250-300pp, family-style",For tour operator partnerships,MEDIUM
+SCALE,Week 15,Create B2B presentation materials,Tour Operators,Agency,€1000,Chinese-language pitch deck and menu packets,For CITS and other operators,MEDIUM
+SCALE,Week 15,List restaurants on Fliggy,Fliggy,Agency,€500,"All 4 restaurants visible, photos uploaded",Special packages for Fliggy users,MEDIUM
+SCALE,Week 16,Select top-tier KOL,Influencer Marketing,Agency + Marketing Director,€10000-15000,Contract signed for major campaign,"1M+ follower, multi-platform deliverables",CRITICAL
+SCALE,Week 16,Create Mafengwo listings,Mafengwo,Agency,€300,Restaurant profiles created,User-generated content platform,LOW
+SCALE,Week 17,Launch Weibo campaigns,Weibo,Agency,€2000,Photo/video campaigns with hashtags,Cross-promote KOL content,MEDIUM
+SCALE,Week 18,Plan top-tier KOL visit,Influencer Marketing,Operations + Agency,€2000,VIP itinerary created,Premium experiences for premium KOL,HIGH
+SCALE,Week 19,WeChat Mini Program beta testing,WeChat,Agency + IT,Included,Testing with internal team and Chinese contacts,Fix bugs before public launch,HIGH
+SCALE,Week 20,Execute top-tier KOL campaign,Influencer Marketing,All Departments,€12000-15000,Major KOL visit and content creation,"Expect 2M+ impressions, significant visibility",CRITICAL
+SCALE,Week 21,Launch WeChat Mini Program,WeChat,Agency,€500 launch campaign,Public launch with promotion,Enable reservations and menu browsing,HIGH
+SCALE,Week 21,Top-tier KOL content goes live,Influencer Marketing,KOL + Agency,Included,Multi-platform content launch,"Weibo, XHS, Douyin simultaneously",CRITICAL
+SCALE,Week 22,Run Xiaohongshu paid campaigns,Xiaohongshu,Agency,€3000,Sponsored posts and KOL amplification,Photo-focused platform matches Dubrovnik,HIGH
+SCALE,Week 22,Engage with UGC on all platforms,Social Media,Agency,€500/month ongoing,Respond to all Chinese comments and posts,Build community and trust,HIGH
+SCALE,Week 23,Research China travel trade shows,Tour Operators,Agency + Marketing Director,€0,Select 1-2 shows for attendance,"ITB China, COTTM, or virtual options",MEDIUM
+SCALE,Week 24,Mid-program performance review,Analytics,Agency + Marketing Director + Finance,Included,Comprehensive report on all metrics,"Guest count, revenue, ROI by channel",CRITICAL
+
+OPTIMIZE,Week 25,Identify top-performing channels,Analytics,Agency,Included,Ranked list of channels by ROI,Scale what works,HIGH
+OPTIMIZE,Week 25,Create tour operator outreach list,Tour Operators,Agency,€200,Contact list: CITS + 10 other major operators,Prioritize those with Croatia programs,MEDIUM
+OPTIMIZE,Week 26,Cut/reduce underperforming channels,Budget Optimization,Marketing Director,€0,Reallocate budget to high-ROI channels,Data-driven decision making,HIGH
+OPTIMIZE,Week 26,Pitch tour operators,Tour Operators,Marketing Director + Agency,€1000,Meetings scheduled with 3-5 operators,Virtual meetings or in-person if budget allows,MEDIUM
+OPTIMIZE,Week 27,Attend virtual trade show,Tour Operators,Marketing Director,€500-1500,Meetings with 10+ Chinese operators,Less expensive than in-person,MEDIUM
+OPTIMIZE,Week 27,Scale high-ROI platforms,Budget Optimization,Agency,Variable,"2x budget for top 2-3 channels, e.g., if XHS performing well",Double down on winners,HIGH
+OPTIMIZE,Week 28,Refine messaging based on data,Strategy,Agency,Included,Updated positioning and content strategy,What resonates with Chinese audience?,MEDIUM
+OPTIMIZE,Week 28,Negotiate tour operator partnerships,Tour Operators,Marketing Director,€0,1-2 partnership agreements signed,10-15% commission structure,MEDIUM
+OPTIMIZE,Week 29,Launch Q4 campaigns,Seasonal Marketing,Agency,€2000,Holiday and Chinese New Year promotions,Chinese New Year (Jan-Feb) is key,MEDIUM
+OPTIMIZE,Week 30,Develop loyalty program concept,Customer Retention,Agency + Operations,€1000,Program design for repeat Chinese visitors,WeChat Mini Program integration,MEDIUM
+OPTIMIZE,Week 31,Plan Year 2 strategy,Strategic Planning,Agency + Marketing Director,Included,Preliminary Year 2 plan and budget,Based on Year 1 learnings,HIGH
+OPTIMIZE,Week 32,Launch loyalty program pilot,Customer Retention,Operations + IT,€500,Test with first 20-30 Chinese guests,Collect feedback and iterate,MEDIUM
+OPTIMIZE,Week 33,Negotiate annual contracts,Budget Optimization,Marketing Director,€0,"Reduced rates for Year 2 commitments, 15-20% discount",Lock in pricing,MEDIUM
+OPTIMIZE,Week 34,Continue seasonal campaigns,Seasonal Marketing,Agency,€1500,Ongoing promotions through high season,Adapt to booking patterns,MEDIUM
+OPTIMIZE,Week 35,Compile Year 1 case studies,Marketing,Agency,€500,Success stories and testimonials,"Use for Year 2 marketing, B2B pitches",MEDIUM
+OPTIMIZE,Week 36,Year-end analytics report,Analytics,Agency,Included,Complete Year 1 performance analysis,"All metrics: guests, revenue, ROI, platform performance",CRITICAL
+OPTIMIZE,Week 37,ROI calculation by channel,Analytics,Agency + Finance,Included,Detailed ROI for each platform and campaign,Inform Year 2 budget allocation,CRITICAL
+OPTIMIZE,Week 38,Finalize Year 2 strategy,Strategic Planning,Marketing Director + Agency,€0,Approved Year 2 plan and budget,"Scale, optimize, or pivot based on Year 1",HIGH
+OPTIMIZE,Week 39,Present results to stakeholders,Reporting,Marketing Director,€0,Executive presentation of Year 1 results,Celebrate wins and learn from misses,HIGH
+OPTIMIZE,Week 40,Prepare Year 2 kickoff,Planning,All Departments,€0,Year 2 objectives and KPIs set,Continue momentum into Year 2,MEDIUM
+
+ONGOING,Weekly,Monitor Dianping reviews,Reputation Management,Agency,Included in retainer,Respond to all reviews within 48 hours,In Chinese with cultural sensitivity,HIGH
+ONGOING,Weekly,Monitor Xiaohongshu mentions,Social Listening,Agency,Included in retainer,Engage with all mentions and tags,Like and comment in Chinese,HIGH
+ONGOING,Weekly,Monitor Douyin comments,Social Listening,Agency,Included in retainer,Respond to all comments,Build community engagement,MEDIUM
+ONGOING,Weekly,Monitor Weibo mentions,Social Listening,Agency,Included in retainer,Engage with shares and mentions,Amplify positive content,MEDIUM
+ONGOING,Weekly,Post WeChat content,Content Marketing,Agency,Included in retainer,1-2 articles per week minimum,Mix of promotional and educational,HIGH
+ONGOING,Weekly,Post Xiaohongshu content,Content Marketing,Agency,Included in retainer,2-3 posts per restaurant per week,High-quality photos essential,CRITICAL
+ONGOING,Weekly,Track Chinese guest visits,Analytics,Restaurant Staff,€0,POS system tracking by nationality,Manual tracking if needed,CRITICAL
+ONGOING,Weekly,Monitor payment system performance,Technology,IT + Finance,€0,"Ensure WeChat Pay, Alipay working smoothly",Fix issues immediately,HIGH
+ONGOING,Bi-weekly,Douyin video content,Content Marketing,Agency,€500-1000 per video,1-2 new videos per month,Short-form video remains fresh,HIGH
+ONGOING,Bi-weekly,Performance dashboard review,Analytics,Marketing Director + Agency,Included in retainer,Review all KPIs and trends,Course correct quickly,HIGH
+ONGOING,Monthly,Chinese guest experience survey,Customer Feedback,Operations,€0,Survey 5-10 Chinese guests monthly,WeChat-based survey tool,MEDIUM
+ONGOING,Monthly,Review and update Chinese menus,Menu Management,Operations + Translator,€100-200,Seasonal menu changes translated,Keep current always,MEDIUM
+ONGOING,Monthly,Platform algorithm updates check,Platform Monitoring,Agency,Included in retainer,Stay informed on platform changes,Adapt strategy as needed,MEDIUM
+ONGOING,Monthly,Competitor monitoring,Competitive Intelligence,Agency,Included in retainer,Track other restaurants' Chinese presence,Learn and differentiate,MEDIUM
+ONGOING,Monthly,Financial reporting,Finance,Finance + Agency,Included in retainer,"Revenue from Chinese guests, ROI by channel",Inform budget decisions,CRITICAL
+ONGOING,Quarterly,KOL relationship maintenance,Influencer Marketing,Agency,€1000-2000/quarter,Stay in touch with past KOL partners,Potential for ongoing collaboration,MEDIUM
+ONGOING,Quarterly,Major platform campaigns,Paid Advertising,Agency,€2000-4000/quarter,"Larger campaigns on XHS, Douyin, WeChat",Seasonal or event-based,HIGH
+ONGOING,Quarterly,Tour operator check-ins,B2B Relationships,Marketing Director,€0,Update partners on offerings and availability,Maintain relationships,MEDIUM
+ONGOING,Quarterly,Strategic review,Strategic Planning,Marketing Director + Agency,Included in retainer,Assess progress against goals and adjust,Stay agile and responsive,HIGH
+ONGOING,Annually,Trade show attendance,B2B Marketing,Marketing Director,€3000-5000,Attend 1-2 major China travel trade shows,ITB China or COTTM in-person,MEDIUM
+ONGOING,Annually,Major KOL event,Influencer Marketing,All Departments,€15000-25000,Annual influencer event in Dubrovnik,3-5 KOLs simultaneously for impact,HIGH
+ONGOING,Annually,Contract renewals,Vendor Management,Marketing Director + Finance,€0,Renew agency and platform contracts,Negotiate based on performance,HIGH
+ONGOING,Annually,Chinese market strategy refresh,Strategic Planning,Marketing Director + Agency,€2000-3000,Update strategy based on market changes,China market evolves rapidly,HIGH
+
+TOOLS_SETUP,Month 1,Select analytics platform,Technology,IT + Marketing,€500-1000/year,"Google Analytics or alternative if accessible in China, plus Chinese platform analytics",Track all traffic and conversions,HIGH
+TOOLS_SETUP,Month 1,Set up social listening tools,Technology,Agency,Included or €300/month,"Monitor mentions across Chinese platforms: Weibo, XHS, Douyin, Dianping",Sentiment analysis and trending,MEDIUM
+TOOLS_SETUP,Month 1,Configure POS tracking,Technology,IT + Finance,€0,"Add nationality field to reservations and POS, track Chinese guests separately",Critical for ROI measurement,CRITICAL
+TOOLS_SETUP,Month 2,Implement WeChat CRM,Technology,Agency + IT,€500-1000 setup,Capture WeChat contacts for ongoing marketing,Build owned audience,MEDIUM
+TOOLS_SETUP,Month 2,Set up translation workflow,Operations,Operations + Agency,€0 process setup,Process for ongoing Chinese content translation,Quality control essential,HIGH
+TOOLS_SETUP,Month 3,Create content calendar,Marketing,Agency,Included,12-month calendar for all Chinese platforms,Ensures consistent posting,HIGH
+TOOLS_SETUP,Month 3,Develop reporting templates,Analytics,Agency + Finance,Included,Standardized monthly and quarterly reports,Consistent metrics tracking,HIGH
+
+KOL_CONTACTS,Research,Molly 猫力 (Weibo),Influencer Database,Agency,N/A,6.6M followers - Top travel blogger,Premium rate €10-15K,Reference
+KOL_CONTACTS,Research,Nono 抬头看风景 (Weibo),Influencer Database,Agency,N/A,5.2M followers - Photography focus,Premium rate €8-12K,Reference
+KOL_CONTACTS,Research,Xiao Mo (Weibo),Influencer Database,Agency,N/A,525K followers - Food & travel couple,Mid-tier rate €5-8K,Reference
+KOL_CONTACTS,Research,Mia Zhang (Multi-platform),Influencer Database,Agency,N/A,Luxury travel + photography,Premium rate €10-15K,Reference
+KOL_CONTACTS,Research,Fan Yichen (Multi-platform),Influencer Database,Agency,N/A,Culinary travel focus,Mid-tier rate €6-10K,Reference
+KOL_CONTACTS,Research,Mid-tier food bloggers (Douyin),Influencer Database,Agency,N/A,100K-500K followers - Various,Rate €2-5K each,Reference
+
+AGENCY_CONTACTS,Selection,Dragon Trail International,Agency Options,Marketing Director,€3000-6000/month,Tourism specialist - TOP RECOMMENDATION,www.dragontrail.com,Reference
+AGENCY_CONTACTS,Selection,Hot Pot Digital,Agency Options,Marketing Director,€2500-5000/month,F&B industry specialist,Search online for contact,Reference
+AGENCY_CONTACTS,Selection,Jing Social,Agency Options,Marketing Director,€4000-7000/month,Premium brands - Good for Nautika,www.jingsocial.com,Reference
+AGENCY_CONTACTS,Selection,HiCom Asia / Eternityx,Agency Options,Marketing Director,€2000-4000/month + KOL fees,KOL specialists,www.hicom-asia.com,Reference
+AGENCY_CONTACTS,Selection,Sekkei Digital Group,Agency Options,Marketing Director,€2000-4000/month,Douyin/Xiaohongshu specialists,Search online for contact,Reference
+
+PAYMENT_PARTNERS,Selection,Silkpay,Payment Integration,Finance Team,Setup + 2-3% transaction,WeChat Pay + Alipay for Europe,www.silkpay.com,Reference
+PAYMENT_PARTNERS,Selection,Europass,Payment Integration,Finance Team,Setup + fees vary,Travel tech including payment,europasschina.com,Reference
+PAYMENT_PARTNERS,Selection,Local payment processors,Payment Integration,Finance Team,Compare quotes,Check Croatia-based options with Chinese capability,Research local market,Reference
+
+TRANSLATION_SERVICES,Selection,Professional translation agency,Translation,Operations,€0.10-0.20 per word,Native speaker translation services,Avoid Google Translate,Reference
+TRANSLATION_SERVICES,Selection,Cultural consultant,Translation,Agency can provide,Included in retainer or €100/hour,Review for cultural appropriateness,Beyond literal translation,Reference
+
+PLATFORM_ACCOUNTS,Reference,Dianping (大众点评),Platform Details,N/A,Free + optional advertising,Review platform - like Yelp,www.dianping.com,Reference
+PLATFORM_ACCOUNTS,Reference,Xiaohongshu (小红书),Platform Details,N/A,Free + optional advertising,Photo sharing - like Instagram,xiaohongshu.com (RED),Reference
+PLATFORM_ACCOUNTS,Reference,WeChat (微信),Platform Details,N/A,Free accounts + Mini Program dev cost,Messaging + ecosystem,weixin.qq.com,Reference
+PLATFORM_ACCOUNTS,Reference,Douyin (抖音),Platform Details,N/A,Free + optional advertising,Short video - Chinese TikTok,douyin.com,Reference
+PLATFORM_ACCOUNTS,Reference,Weibo (微博),Platform Details,N/A,Free + optional advertising,Microblogging - like Twitter,weibo.com,Reference
+PLATFORM_ACCOUNTS,Reference,Ctrip / Trip.com (携程),Platform Details,N/A,Free basic + premium listings,Largest Chinese OTA,trip.com,Reference
+PLATFORM_ACCOUNTS,Reference,Fliggy (飞猪),Platform Details,N/A,Merchant setup + commissions,Alibaba travel platform,fliggy.com,Reference
+PLATFORM_ACCOUNTS,Reference,Mafengwo (蚂蜂窝),Platform Details,N/A,Free + optional featured listings,Travel planning and reviews,mafengwo.cn,Reference
+
+SUCCESS_METRICS,KPI,Chinese guest count per month,Measurement,Operations + Finance,Track in POS,Target: 15-20 by Month 12,"Start: 2-5, grow steadily",CRITICAL
+SUCCESS_METRICS,KPI,Average spend per Chinese guest,Measurement,Finance,Track in POS,Target: €300-350,"Compare to overall average €180-220, should be 60%+ higher",CRITICAL
+SUCCESS_METRICS,KPI,Chinese revenue as % of total,Measurement,Finance,Calculate monthly,Target: 2-3% by Month 12,Starting from near 0%,HIGH
+SUCCESS_METRICS,KPI,Dianping reviews - Panorama,Measurement,Agency,Monitor weekly,Target: Grow 224 → 300+,Maintain #1 position,HIGH
+SUCCESS_METRICS,KPI,Dianping reviews - Arsenal,Measurement,Agency,Monitor weekly,Target: Grow 189 → 250+,Maintain #2 position,HIGH
+SUCCESS_METRICS,KPI,Dianping reviews - Dubravka,Measurement,Agency,Monitor weekly,Target: Grow 153 → 200+,Improve positioning,MEDIUM
+SUCCESS_METRICS,KPI,Dianping reviews - Nautika,Measurement,Agency,Monitor weekly,Target: 0 → 30-50 reviews,NEW profile success metric,CRITICAL
+SUCCESS_METRICS,KPI,Xiaohongshu followers (total),Measurement,Agency,Track weekly,Target: 2000-3000 by Month 12,Across all 4 accounts,HIGH
+SUCCESS_METRICS,KPI,Xiaohongshu engagement rate,Measurement,Agency,Track weekly,Target: 3-5% average,"Likes, comments, shares per post",HIGH
+SUCCESS_METRICS,KPI,Douyin followers (total),Measurement,Agency,Track weekly,Target: 1000-2000 by Month 12,Video platform growth slower,MEDIUM
+SUCCESS_METRICS,KPI,Douyin video views,Measurement,Agency,Per video,Target: 10K-50K per video,Viral potential exists,MEDIUM
+SUCCESS_METRICS,KPI,WeChat Official Account followers,Measurement,Agency,Track weekly,Target: 1000-1500 by Month 12,Quality over quantity,MEDIUM
+SUCCESS_METRICS,KPI,WeChat Mini Program users,Measurement,Agency + IT,Track in app,Target: 200-300 by Month 12,Reservations and menu views,MEDIUM
+SUCCESS_METRICS,KPI,Weibo followers (total),Measurement,Agency,Track weekly,Target: 1500-2500 by Month 12,Across all 4 accounts,MEDIUM
+SUCCESS_METRICS,KPI,KOL campaign impressions,Measurement,Agency,Per campaign,Target: 500K-2M per mid-tier; 2M-5M per top-tier,Reach metric,HIGH
+SUCCESS_METRICS,KPI,KOL campaign engagement,Measurement,Agency,Per campaign,Target: 20K-100K engagements,"Likes, comments, shares",HIGH
+SUCCESS_METRICS,KPI,Cost per Chinese guest acquired,Measurement,Finance + Agency,Calculate monthly,Target: €200-350,"Total investment ÷ Chinese guests, improve over time",CRITICAL
+SUCCESS_METRICS,KPI,Return on Ad Spend (ROAS),Measurement,Finance + Agency,Calculate quarterly,"Target: 1.5-2.5x by Month 12",Ad spend → Revenue ratio,CRITICAL
+SUCCESS_METRICS,KPI,Review sentiment score,Measurement,Agency,Monthly analysis,Target: 85%+ positive,Sentiment analysis of Chinese reviews,HIGH
+SUCCESS_METRICS,KPI,Repeat Chinese visitor rate,Measurement,Operations,Track reservations,Target: 10-15% by end of Year 1,Build loyalty,MEDIUM
+SUCCESS_METRICS,KPI,WeChat Pay/Alipay transaction volume,Measurement,Finance,Monthly,Target: 30-50 transactions by Month 12,Payment adoption metric,MEDIUM
+SUCCESS_METRICS,KPI,Social media mentions (UGC),Measurement,Agency,Weekly monitoring,Target: 50-100 mentions by Month 12,"User posts tagging restaurants, organic reach",HIGH
+SUCCESS_METRICS,KPI,Booking source attribution,Measurement,Operations,Ask at reservation,Track which platform drove booking,"Where did you hear about us?, in Chinese",HIGH
+SUCCESS_METRICS,KPI,Tour operator bookings,Measurement,Operations,Track separately,Target: 20-30 guests via B2B by Month 12,Group dining partnerships,MEDIUM
+
+CULTURAL_TRAINING,Topic,Chinese dining expectations,Staff Training,HR + Agency,€200,Staff understand lively atmosphere is normal,Not quiet like Western fine dining,HIGH
+CULTURAL_TRAINING,Topic,Photography assistance,Staff Training,HR + Operations,€100,Staff trained to help guests take photos,Offer to take group photos,HIGH
+CULTURAL_TRAINING,Topic,WeChat Pay/Alipay troubleshooting,Staff Training,HR + Finance + IT,€200,Staff can solve common payment issues,Reduce friction at checkout,CRITICAL
+CULTURAL_TRAINING,Topic,Basic Mandarin phrases,Staff Training,HR + Agency,€300,"你好 (hello), 谢谢 (thank you), 买单 (check please), etc.",5-10 essential phrases,HIGH
+CULTURAL_TRAINING,Topic,Chinese menu knowledge,Staff Training,HR + Operations,€200,Staff can navigate Chinese menu with guests,Point and explain using Chinese menu,MEDIUM
+CULTURAL_TRAINING,Topic,Hot water/tea service,Staff Training,HR + Operations,€100,Always offer hot water option,Chinese prefer hot water to cold,MEDIUM
+CULTURAL_TRAINING,Topic,Group payment dynamics,Staff Training,HR + Finance,€100,Understand group leader pays (one check),Don't assume split checks,MEDIUM
+CULTURAL_TRAINING,Topic,Cultural sensitivity,Staff Training,HR + Agency,€500,Broader cultural awareness training,Respect and understanding,HIGH
+
+RISK_MITIGATION,Risk,Budget overruns,Financial Control,Finance + Marketing Director,€0,Monthly budget tracking and alerts,Stop spending if hitting limits,HIGH
+RISK_MITIGATION,Risk,Lower ROI than expected,Performance,Marketing Director + Agency,€0,Go/no-go decision points at Month 3 and Month 6,Cut losses if not working,CRITICAL
+RISK_MITIGATION,Risk,Platform account issues,Technical,Agency + IT,€500 contingency,Backup contacts and technical support,Chinese platforms can be challenging to navigate,MEDIUM
+RISK_MITIGATION,Risk,Translation errors,Quality Control,Translator + Cultural Consultant,€500 for reviews,Native speaker review of all content,Poor translation damages credibility,HIGH
+RISK_MITIGATION,Risk,Negative reviews,Reputation,Agency + Operations,Included in retainer,Rapid response protocol in Chinese,Address issues within 24-48 hours,HIGH
+RISK_MITIGATION,Risk,Payment system downtime,Technical,IT + Payment Partner,Included in support,Backup payment methods available,Always have cash option too,MEDIUM
+RISK_MITIGATION,Risk,KOL underperformance,Influencer,Agency,€0,Performance clauses in contracts,Minimum impressions/engagement guaranteed,MEDIUM
+RISK_MITIGATION,Risk,Market volatility (COVID etc),External,Marketing Director,€0,Flexible contracts with exit clauses,Don't lock in long-term if uncertain,MEDIUM
+RISK_MITIGATION,Risk,Competition copies strategy,Competitive,Marketing Director + Agency,€0,Build relationships and differentiation quickly,First-mover advantage is temporary,LOW
+
+CONTINGENCY,Scenario,If Month 3 results below expectations,Decision Point,Marketing Director + Finance,€0,"Reassess: Cut budget 50%, focus on top 2 channels only",Reduce risk exposure,CRITICAL
+CONTINGENCY,Scenario,If Month 6 results below expectations,Decision Point,Marketing Director + Finance,€0,Pause or pivot: Different platforms or approach,Major reassessment needed,CRITICAL
+CONTINGENCY,Scenario,If results exceed expectations,Decision Point,Marketing Director + Finance,Variable,Scale up: Increase budget 50-100% for high-ROI channels,Double down on winners,HIGH
+CONTINGENCY,Scenario,If payment systems fail,Backup Plan,Operations + IT,€0,Manual process: Staff note WeChat ID and process later,Temporary workaround,MEDIUM
+CONTINGENCY,Scenario,If agency underperforms,Backup Plan,Marketing Director,€0,Switch agencies: Have backup agency identified,Performance reviews at Month 3 and 6,MEDIUM
+CONTINGENCY,Scenario,If KOL campaign disappoints,Backup Plan,Agency,€500-1000,Boost with paid ads to compensate reach,Amplification strategy,MEDIUM
+CONTINGENCY,Scenario,If Chinese market recovery stalls,Strategic,Marketing Director,€0,Reduce Year 2 investment accordingly,Market-dependent strategy,MEDIUM
+
+QUICK_WINS,Opportunity,Respond to all existing Dianping reviews,Immediate Action,Agency,€500,"566 total reviews across 3 restaurants, show we care",Build trust and engagement,HIGH
+QUICK_WINS,Opportunity,Add Chinese welcome sign,Immediate Action,Operations,€50,"欢迎光临 (Welcome) at entrance, shows cultural respect",Simple but impactful,MEDIUM
+QUICK_WINS,Opportunity,Create photo corner at Panorama,Immediate Action,Operations,€200,"Sunset view photo spot with good lighting, drives UGC",Leverage view asset,HIGH
+QUICK_WINS,Opportunity,Encourage staff to learn one phrase,Immediate Action,HR,€0,"Everyone learns 欢迎 (welcome), creates positive impression",Cultural bridge,MEDIUM
+QUICK_WINS,Opportunity,Create shareable menu item,Immediate Action,Chef + Marketing,€200,"Photogenic signature dish, designed for Instagram/XHS",Photo-worthy food,HIGH
+QUICK_WINS,Opportunity,Partner with nearby hotels,Immediate Action,Sales Director,€0,Cross-promotion with hotels hosting Chinese guests,Quick distribution channel,MEDIUM
+QUICK_WINS,Opportunity,Contact Croatian Tourism Board,Immediate Action,Marketing Director,€0,Join Chinese market initiatives and get support,Leverage existing efforts,MEDIUM
+QUICK_WINS,Opportunity,Set up WeChat QR code for contact,Immediate Action,IT + Marketing,€50,Guests can add restaurant on WeChat easily,Build owned audience,MEDIUM
+
+LONG_TERM,Goal,Become #1 Dubrovnik restaurant group for Chinese tourists,Strategic Objective,All Departments,Year 1-3 investment,Market leadership position,"Known as best choice, referenced by guides",CRITICAL
+LONG_TERM,Goal,500+ Chinese guests per year sustained,Revenue Target,All Departments,Ongoing investment,Significant revenue contribution,"At €300 avg = €150K annual revenue from Chinese segment",HIGH
+LONG_TERM,Goal,Chinese market manager dedicated role,Team Building,HR + Finance,€30-40K/year salary,Full-time Chinese market specialist hired,In-house expertise,HIGH
+LONG_TERM,Goal,Annual KOL event in Dubrovnik,Marketing Program,Marketing + Operations,€15-25K/year,3-5 KOLs invited annually for major content creation,Sustained visibility,MEDIUM
+LONG_TERM,Goal,Partnership with Air China or similar,Distribution,Sales Director + Agency,€0 (revenue share model),Direct airline partnership for promotion,Premium distribution channel,MEDIUM
+LONG_TERM,Goal,Chinese language menu updates quarterly,Operations Excellence,Operations + Translator,€200/quarter,Always current with seasonal offerings,Operational standard,MEDIUM
+LONG_TERM,Goal,Mandarin-speaking staff at each location,Team Building,HR,€25-35K/year per person,4 Chinese-speaking staff members (1 per restaurant),Service excellence,MEDIUM
+LONG_TERM,Goal,WeChat loyalty program with 1000+ members,Customer Retention,Marketing + IT,€2-3K/year program cost,Active database for direct marketing,Owned audience asset,MEDIUM
+LONG_TERM,Goal,Featured in Chinese travel guides,PR & Media,Agency,€2-5K/year for PR,Listed in major Chinese Dubrovnik/Croatia guides,Credibility and discovery,LOW
+LONG_TERM,Goal,100+ 5-star Dianping reviews per restaurant,Reputation,All Departments,Ongoing excellence,Total 400+ across portfolio,Market dominance signal,HIGH

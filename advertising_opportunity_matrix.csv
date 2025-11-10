@@ -1,0 +1,55 @@
+Platform,Channel,Cost Metric,Min Cost,Max Cost,Average Cost,Currency,Reach Potential,Target Audience,ROI Benchmark,Conversion Rate,Recommended Budget €10K,Recommended Budget €50K,Recommended Budget €100K,Recommended Budget €500K,Priority Level,Time to Results,Notes
+Google Ads,Search - Restaurant Keywords,CPC,€1.80,€2.85,€2.25,EUR,High,"International travelers searching ""Dubrovnik restaurants""",200%,3-5%,€3000,€15000,€30000,€125000,QUICK WIN,1-2 weeks,Food & Beverage avg CPC $1.95-$3.07; Travel $0.25-$1.92
+Google Ads,Search - Fine Dining Keywords,CPC,€2.50,€4.00,€3.00,EUR,Medium,High-income travelers seeking fine dining,200%,4-6%,€2000,€10000,€20000,€80000,HIGH,1-2 weeks,Higher intent keywords cost more but convert better
+Google Ads,Display Network,CPC,€0.40,€0.60,€0.50,EUR,Very High,Broad travel audience,150%,1-2%,€1000,€5000,€10000,€40000,MEDIUM,2-4 weeks,Travel & Hospitality Display CPC $0.44
+Google Maps,Local Search Ads,CPC,€1.50,€3.00,€2.05,EUR,High,Local + tourist searches near Dubrovnik,180%,5-8%,€2000,€10000,€20000,€75000,QUICK WIN,1 week,Restaurant CPC closer to $2.05; appears as promoted pins
+YouTube,Video Ads - Travel Content,CPV,€0.09,€0.46,€0.12,EUR,Very High,Pre-trip travel research phase,150%,0.78%,€1000,€5000,€10000,€40000,MEDIUM,2-4 weeks,Travel CTR 0.78%; Restaurants have low 0.04% CTR
+Facebook Ads,Travel Interest Targeting,CPC,€0.38,€0.65,€0.42,EUR,Very High,Users interested in Croatia travel,200%,2-3%,€2000,€12000,€25000,€100000,HIGH,1-2 weeks,Travel has lowest CPC at $0.42; excellent targeting
+Facebook Ads,Lookalike Audiences,CPM,€8.00,€12.00,€10.50,EUR,High,Similar to past customers,250%,3-5%,€1500,€8000,€18000,€70000,HIGH,2-3 weeks,Retargeting performs 25% better than cold traffic
+Instagram Ads,Food & Travel Content,CPC,€0.90,€1.85,€1.22,EUR,Very High,Visual-focused travelers,180%,2.5-4%,€2000,€10000,€22000,€85000,HIGH,1-2 weeks,Instagram CPC $1.22; ideal for food photography
+Instagram Ads,Stories & Reels,CPM,€9.00,€15.00,€12.11,EUR,High,Younger affluent travelers,200%,3-4%,€1500,€8000,€18000,€75000,QUICK WIN,1 week,Short-form video performing exceptionally well
+TikTok Ads,Food & Travel Content,CPC,€0.16,€0.93,€0.50,EUR,Very High,Gen Z & Millennial travelers,180%,2-3%,€1000,€7000,€15000,€60000,EMERGING,2-4 weeks,Food & Beverage CPM €9.28; CPC €0.31-€0.93
+TikTok Ads,Brand Takeover,CPM,€5.57,€18.57,€9.28,EUR,Massive,Viral potential audience,150%,1-2%,€500,€3000,€8000,€35000,EXPERIMENTAL,1-2 weeks,Minimum campaign budget $500; daily minimum $50
+Retargeting,Google Display,CPM,€6.50,€9.50,€7.50,EUR,Medium,Website visitors,300%,5-8%,€1500,€8000,€15000,€50000,QUICK WIN,Immediate,Remarketing CPC $0.66-$1.23; 3x better ROI
+Retargeting,Facebook/Instagram,CPC,€0.19,€0.28,€0.24,EUR,Medium,Social media engagers,350%,6-10%,€1500,€10000,€20000,€60000,QUICK WIN,Immediate,Facebook retargeting CPC $0.20-$0.30; highest ROI
+Programmatic Display,Travel Website Network,CPM,€15.00,€22.00,€18.00,EUR,High,Travel planning phase,160%,1.5-2.5%,€1000,€6000,€12000,€45000,MEDIUM,2-4 weeks,TripAdvisor €16-22 CPM; 88% of US display is programmatic
+TripAdvisor,Sponsored Placement,Daily Budget,€2.50,€7.50,€5.00,EUR,High,Active trip planners,220%,4-6%,€1500,€9000,€18000,€70000,HIGH,1 week,Daily rates $2.69-$8.08; CPC model; excellent intent
+OpenTable,Featured Placement,Monthly Fee,€140,€465,€280,EUR,Medium,International diners,180%,8-12%,€0,€3000,€6000,€20000,MEDIUM,2 weeks,€149-499/month + €0.93/cover + advertising extras
+OpenTable,Promoted Results,Per Seated Diner,€1.50,€3.00,€2.00,EUR,Medium,Premium diners,200%,10-15%,€0,€2000,€5000,€18000,MEDIUM,2 weeks,Only charged for seated diners; no impression costs
+Resy,Featured Placement,Monthly Fee,€232,€837,€465,EUR,Medium,Fine dining seekers,200%,12-18%,€0,€5000,€12000,€40000,HIGH,1-2 weeks,$249-900/month; no per-cover fees; AmEx partnership
+Yelp,Sponsored Placement,CPC,€0.28,€1.40,€0.70,EUR,Medium,US travelers primarily,160%,3-5%,€500,€3000,€6000,€20000,LOW,2 weeks,Restaurant CPC around $0.30; primarily US audience
+Google Hotel Ads,Restaurant Integration,CPC,€1.50,€3.00,€2.00,EUR,High,Hotel booking phase,180%,6-10%,€1000,€6000,€12000,€45000,MEDIUM,2-4 weeks,Integrates with Google Travel; captures intent at booking
+Dianping,Premium 10 Plan,Monthly Fee,€667,€1020,€843,EUR,Very High,Chinese travelers,250%,8-12%,€0,€10000,€20000,€80000,EMERGING,4-8 weeks,¥110000/month + ¥110-220 per reservation; 4.2x exposure
+Dianping,Keyword Promotion,Per Click,€4.65,€9.30,€6.98,EUR,High,Chinese restaurant searchers,220%,6-10%,€0,€5000,€10000,€40000,EMERGING,2-4 weeks,¥6-10 per coupon; 10% redemption; 60% traffic from keywords
+Tabelog,Premium 10 Plan,Monthly Fee,€680,€680,€680,EUR,High,Japanese travelers,200%,5-8%,€0,€8000,€16000,€60000,EMERGING,4-8 weeks,¥110000/month; top positioning 14x/month during peak hours
+Tabelog,Per Reservation Fee,Per Person,€0.68,€1.36,€1.02,EUR,High,Japanese diners,180%,8-12%,€0,€2000,€5000,€18000,EMERGING,2-4 weeks,¥110 lunch / ¥220 dinner per person reservation fee
+Influencer Marketing,Nano (1K-10K),Per Post,€50,€200,€125,EUR,Low,Niche engaged audience,180%,4-6%,€1000,€4000,€8000,€25000,MEDIUM,2-4 weeks,High engagement; authentic content; micro-targeting
+Influencer Marketing,Micro (10K-50K),Per Post,€200,€750,€475,EUR,Medium,Engaged travel followers,200%,5-8%,€2000,€8000,€15000,€50000,HIGH,2-4 weeks,Best ROI tier; $500 per post for travel micro-influencers
+Influencer Marketing,Mid-tier (50K-500K),Per Post,€750,€5000,€2500,EUR,High,Established travel audience,180%,3-5%,€1500,€10000,€20000,€75000,MEDIUM,4-8 weeks,Food & drink influencers average $280-2500
+Influencer Marketing,Macro (500K-1M),Per Post,€3500,€15000,€7500,EUR,Very High,Mass market reach,150%,2-4%,€0,€7000,€15000,€60000,LOW,8-12 weeks,High cost; better for brand awareness than conversions
+Influencer Marketing,Travel Bloggers,Per Campaign,€2325,€9300,€5813,EUR,High,Dedicated travel readers,200%,6-10%,€2000,€12000,€25000,€90000,HIGH,4-8 weeks,$2500-10000 per campaign; includes multiple deliverables
+Content Marketing,Professional Photography,One-time,€1400,€4650,€2800,EUR,N/A,All channels,N/A,N/A,€2800,€5600,€9300,€27900,ESSENTIAL,1-2 weeks,$150-500/hour; essential for all digital marketing
+Content Marketing,Food Styling,Day Rate,€465,€1116,€791,EUR,N/A,All visual content,N/A,N/A,€0,€2400,€4800,€19000,HIGH,1 week,$500-1200/day; editorial $500-750; advertising $850-1200
+Content Marketing,Video Production - Social,Per Video,€930,€6975,€2325,EUR,N/A,Social platforms,N/A,N/A,€2400,€9300,€18600,€55800,HIGH,2-3 weeks,$1000-3000 for 15-30 sec; essential for TikTok/Reels
+Content Marketing,Video Production - Commercial,Per Video,€2790,€46500,€14000,EUR,N/A,All platforms,N/A,N/A,€0,€14000,€28000,€93000,MEDIUM,4-8 weeks,$3000-50000; premium brand content
+Content Marketing,Sponsored Blog Post - Small,Per Post,€46,€372,€186,EUR,Low,Niche audience,150%,2-3%,€500,€2000,€4000,€15000,LOW,2-4 weeks,5K-20K monthly visitors
+Content Marketing,Sponsored Blog Post - Medium,Per Post,€465,€1860,€1163,EUR,Medium,Engaged readers,180%,3-5%,€1200,€5000,€12000,€40000,MEDIUM,4-6 weeks,100K-1M monthly visits; $500-2500
+Content Marketing,Sponsored Blog Post - Large,Per Post,€1395,€18600,€9300,EUR,High,Mass audience,150%,2-4%,€0,€9300,€18600,€55800,LOW,6-12 weeks,Major travel sites; Points Guy charges $25000/week homepage
+PR & Media,Press Release Distribution,Per Release,€93,€232,€163,EUR,High,Media & journalists,N/A,N/A,€500,€2000,€4000,€12000,MEDIUM,1 week,EIN Presswire €93; PR Newswire €232 + €181 annual
+PR & Media,PR Agency Retainer,Monthly,€1860,€9300,€4650,EUR,High,Media coverage,250%,N/A,€0,€9300,€18600,€93000,HIGH,3-6 months,Hourly €23-93; builds media relationships over time
+PR & Media,Food Journalist Visit,Per Visit,€465,€2325,€930,EUR,High,Media coverage,300%,N/A,€500,€3000,€6000,€20000,HIGH,Varies,Flights + accommodation + meal + hospitality
+PR & Media,Travel Journalist FAM Trip,Per Trip,€1860,€9300,€4650,EUR,Very High,Major media coverage,400%,N/A,€0,€5000,€10000,€40000,HIGH,Varies,Group press trips; multiple journalists; high ROI
+Partnerships,Hotel Concierge Commission,Per Referral,15%,30%,22%,Percent,High,Hotel guests,300%,40-60%,€0,€0,€0,€0,QUICK WIN,Ongoing,Commission-only; no upfront cost; 20-25% average
+Partnerships,Tour Operator Commission,Per Booking,15%,30%,22%,Percent,High,Organized tour groups,250%,30-50%,€0,€0,€0,€0,HIGH,Ongoing,20-30% of retail price; excellent for group bookings
+Partnerships,AmEx Resy Integration,Setup Fee,€0,€4650,€2325,EUR,High,Premium card holders,250%,15-25%,€0,€2325,€4650,€9300,HIGH,4-8 weeks,Access to AmEx Platinum/Gold dining credits
+Partnerships,Visa OpenTable Program,Setup Fee,€0,€2325,€1163,EUR,Medium,Visa cardholders,220%,12-20%,€0,€1163,€2325,€4650,MEDIUM,4-8 weeks,Expanding to 500+ restaurants in 34 cities by 2025
+Partnerships,Travel Agency Partnership,Commission,10%,20%,15%,Percent,Medium,Package tourists,200%,20-40%,€0,€0,€0,€0,MEDIUM,Ongoing,Lower commission than tours but steady volume
+Agency Services,Digital Marketing Agency,Monthly Retainer,€1860,€18600,€5580,EUR,N/A,Full service management,250%,N/A,€0,€5580,€11160,€27900,MEDIUM,Ongoing,$1800-6000/month avg; $5000-20000 for full service
+Agency Services,SEO Agency,Monthly Retainer,€465,€4650,€2325,EUR,N/A,Organic search growth,300%,N/A,€0,€2325,€4650,€9300,MEDIUM,3-6 months,64% charge under €930/month; long-term investment
+Agency Services,Social Media Management,Monthly Retainer,€930,€4650,€1860,EUR,N/A,Social presence,200%,N/A,€1860,€3720,€5580,€11160,MEDIUM,Ongoing,$2000/month for 3 platforms + community management
+Awards & Recognition,Michelin Guide - Regional,Annual (Tourism Board),€0,€0,€0,EUR,Very High,Fine dining seekers,500%+,N/A,€0,€0,€0,€0,LONG-TERM,Years,No restaurant fee; regional tourism boards pay ~€90K/year
+Awards & Recognition,World's 50 Best,Application Fee,€0,€0,€0,EUR,Massive,Global fine dining,Immeasurable,N/A,€0,€0,€0,€0,LONG-TERM,Years,Cannot apply; voted by 1000+ independent experts; no fees
+Awards & Recognition,Local Food Awards,Entry Fee,€50,€500,€200,EUR,Low-Medium,Regional audience,200%,N/A,€200,€500,€1000,€3000,MEDIUM,Varies,Various regional and national awards; modest investment
+Email Marketing,Database Building,Monthly Tool Cost,€23,€279,€93,EUR,N/A,Past + potential diners,400%,8-15%,€93,€186,€279,€930,HIGH,Ongoing,Highest ROI channel; build from reservations + website
+Email Marketing,Newsletter Campaign,Per Campaign,€0,€93,€46,EUR,Medium,Database subscribers,450%,12-20%,€50,€200,€400,€1500,QUICK WIN,Immediate,Assuming 5000-50000 subscribers; extremely high ROI
+SMS Marketing,Reservation Reminders,Per Message,€0.05,€0.15,€0.08,EUR,High,Confirmed bookings,350%,15-25%,€100,€400,€800,€2500,HIGH,Immediate,High open rates 90%+; excellent for confirmations + upsells

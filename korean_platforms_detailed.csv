@@ -1,0 +1,17 @@
+platform,korean_name,market_share,users_million,primary_use,relevance_restaurants,setup_difficulty,cost_range_eur,requires_korean_partner,advertising_available,organic_presence,priority,key_features,croatian_restaurant_presence,opportunity_score,timeline_setup
+Naver Search,네이버,60%,42,Search Engine & Portal,VERY HIGH,High,2000-5000,Yes,Yes,Yes,URGENT,"Blog integration, maps, booking, reviews",ZERO,10/10,60-90 days
+Naver Blog,네이버 블로그,~50%,30+,Content & Reviews,VERY HIGH,Medium-High,1000-2000,Yes,Yes (promoted),Yes,HIGH,"Long-form reviews, photos, SEO, trusted source",ZERO,10/10,30-60 days
+Kakao Map,카카오맵,~70%,35+,Navigation & Local Search,CRITICAL,Medium,1500-2500,Yes,Yes,Yes,URGENT,"Navigation, business info, reviews, directions",ZERO,10/10,30-60 days
+KakaoTalk,카카오톡,99.1%,53.5,Messaging & Super App,HIGH,Medium,1500-2500,Yes,Yes,Yes,HIGH,"Direct messaging, reservations, customer service",ZERO,9/10,60-90 days
+Instagram,인스타그램,45%,24,Photo Sharing & Discovery,VERY HIGH,Low,0-2000,No,Yes (self-service),Yes,URGENT,"Visual content, hashtags, stories, reels",Partial,9/10,Immediate
+YouTube,유튜브,~90%,43.6,Video Content,HIGH,Low-Medium,0-5000,No,Yes (self-service),Yes,MEDIUM,"Long-form vlogs, travel guides, authentic reviews",ZERO,8/10,1-6 months
+TripAdvisor,트립어드바이저,Low in Korea,<5,Reviews,LOW,Low,0,No,Limited,Yes,LOW,"English-focused, low Korean usage for planning",Existing,4/10,N/A
+Mangoplate,망고플레이트,High domestic,~5,Restaurant Discovery,LOW (Korea only),N/A,N/A,N/A,Limited,Korea domestic only,NONE,"Korea restaurants only, not international expansion",Not Applicable,1/10,Not Viable
+Google Maps,구글 지도,Low in Korea,<10,Navigation,LOW,Low,0,No,Yes,Yes,LOW,"Koreans prefer Kakao Map, secondary platform",May exist,3/10,Maintain only
+Facebook,페이스북,~60%,25+,Social Network,MEDIUM,Low,0-1000,No,Yes,Yes,LOW,"Declining among youth, older demographic",May exist,5/10,Maintain only
+Creatrip,크리트립,Niche,<1,K-culture Travel Platform,MEDIUM,Medium,Unknown,Unknown,Unknown,Possible,LOW,"Niche platform, reservation services",Unknown,5/10,Research needed
+Catchtable,캐치테이블,High domestic,3+,Restaurant Reservations,LOW (Korea restaurants),High,Unknown,Yes likely,Unknown,Korea domestic,NONE,"Seoul/Busan focused, international presence unclear",Not Applicable,2/10,Not Priority
+Yanolja,야놀자,High domestic,~10,Accommodation & Experiences,MEDIUM,High,Unknown,Yes,Unknown,Korea domestic primarily,NONE,"Hotels/experiences, limited international restaurants",Unknown,3/10,Not Priority
+Dianping,大众点评,ZERO (Chinese),0 in Korea,Chinese Restaurant Reviews,NONE,N/A,N/A,N/A,N/A,N/A,NONE,"Chinese platform, not used by Koreans",N/A,0/10,Wrong Market
+Tabelog,食べログ,ZERO (Japanese),0 in Korea,Japanese Restaurant Reviews,NONE,N/A,N/A,N/A,N/A,N/A,NONE,"Japanese platform, not used by Koreans",N/A,0/10,Wrong Market
+WeChat,微信,Low in Korea,<1,Chinese Messaging,NONE,N/A,N/A,N/A,N/A,N/A,NONE,"Chinese platform, minimal Korean usage",N/A,0/10,Wrong Market
