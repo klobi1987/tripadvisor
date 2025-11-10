@@ -1,0 +1,66 @@
+hashtag,korean_characters,translation,category,search_volume,competition,recommendation,when_to_use,example_post_type
+dubrovnik,두브로브니크,Dubrovnik,Location,HIGH,Medium,ESSENTIAL,Every Dubrovnik post,Any restaurant content
+croatia,크로아티아,Croatia,Location,VERY HIGH,Medium,ESSENTIAL,Every post,Any restaurant content
+croatia_travel,크로아티아여행,Croatia Travel,Travel Intent,HIGH,Medium,HIGHLY RECOMMENDED,Travel-focused posts,Destination content
+dubrovnik_travel,두브로브니크여행,Dubrovnik Travel,Travel Intent,MEDIUM,Low,RECOMMENDED,Travel-focused posts,Destination content
+dubrovnik_restaurants,두브로브니크맛집,Dubrovnik Restaurants,Food Discovery,LOW,Very Low,CRITICAL,Every food post,Food/restaurant content
+croatia_restaurants,크로아티아맛집,Croatia Restaurants,Food Discovery,MEDIUM,Low,CRITICAL,Every food post,Food/restaurant content
+overseas_restaurants,해외맛집,Overseas Restaurants,Food Discovery,HIGH,High,RECOMMENDED,Restaurant highlights,Premium dining posts
+europe_restaurants,유럽맛집,Europe Restaurants,Food Discovery,HIGH,High,RECOMMENDED,Fine dining posts,Upscale dining content
+europe_travel,유럽여행,Europe Travel,Travel Intent,VERY HIGH,High,RECOMMENDED,Travel content,Journey posts
+ocean_view_restaurant,오션뷰맛집,Ocean View Restaurant,Feature,MEDIUM,Medium,HIGHLY RECOMMENDED,View-focused posts,Sunset/terrace photos
+view_restaurant,뷰맛집,View Restaurant,Feature,HIGH,Medium,HIGHLY RECOMMENDED,Scenic posts,Any view content
+aesthetic_restaurant,감성맛집,Aesthetic Restaurant,Vibe,HIGH,High,RECOMMENDED,Ambiance posts,Interior/mood shots
+instagram_restaurant,인스타맛집,Instagram-worthy Restaurant,Social,HIGH,High,RECOMMENDED,Photo-worthy content,Beautiful plating
+must_visit_restaurant,가볼만한맛집,Must-Visit Restaurant,Recommendation,MEDIUM,Medium,OPTIONAL,Featured experiences,Highlight posts
+fine_dining,파인다이닝,Fine Dining,Category,MEDIUM,Medium,RECOMMENDED,Upscale experiences,Premium content
+seafood,해산물,Seafood,Cuisine,HIGH,High,RECOMMENDED,Seafood dishes,Fish/shellfish posts
+seafood_restaurant,해산물맛집,Seafood Restaurant,Cuisine,MEDIUM,Medium,RECOMMENDED,Seafood focus,Catch of the day
+fresh_seafood,신선한해산물,Fresh Seafood,Quality,MEDIUM,Medium,OPTIONAL,Quality emphasis,Market-fresh posts
+adriatic,아드리아해,Adriatic Sea,Location,MEDIUM,Low,RECOMMENDED,Sea views,Coastal content
+mediterranean,지중해,Mediterranean,Region,HIGH,High,RECOMMENDED,Cuisine style,Mediterranean dishes
+mediterranean_cuisine,지중해요리,Mediterranean Cuisine,Cuisine,MEDIUM,Medium,OPTIONAL,Food culture,Traditional recipes
+sunset,석양,Sunset,Feature,HIGH,High,HIGHLY RECOMMENDED,Sunset posts,Golden hour photos
+sunset_view,석양뷰,Sunset View,Feature,MEDIUM,Medium,HIGHLY RECOMMENDED,Evening shots,Terrace sunset
+golden_hour,골든아워,Golden Hour,Photography,MEDIUM,High,OPTIONAL,Photo-focused,Beautiful lighting
+wine,와인,Wine,Beverage,VERY HIGH,High,RECOMMENDED,Wine service,Wine pairing posts
+wine_pairing,와인페어링,Wine Pairing,Experience,MEDIUM,Medium,RECOMMENDED,Tasting menu,Sommelier recommendations
+romantic_restaurant,로맨틱한레스토랑,Romantic Restaurant,Occasion,MEDIUM,Medium,RECOMMENDED,Date night,Couple dining
+honeymoon,신혼여행,Honeymoon,Travel Purpose,HIGH,High,RECOMMENDED IF APPLICABLE,Couple content,Romantic settings
+proposal_spot,프로포즈명소,Proposal Spot,Occasion,LOW,Low,OPTIONAL,Special occasions,Romantic moments
+special_occasion,특별한날,Special Occasion,Occasion,MEDIUM,Medium,OPTIONAL,Celebrations,Anniversary dining
+luxury_travel,럭셔리여행,Luxury Travel,Travel Style,HIGH,High,RECOMMENDED,Premium experiences,Upscale content
+food_trip,맛집투어,Food Tour,Travel Style,HIGH,High,RECOMMENDED,Culinary focus,Food-centric travel
+foodie,푸디,Foodie,Identity,HIGH,Very High,OPTIONAL,Food lover content,Culinary enthusiasm
+gourmet,미식,Gourmet,Quality,MEDIUM,Medium,RECOMMENDED,Fine dining,High-end cuisine
+delicious,맛있는,Delicious,Quality,VERY HIGH,Very High,OPTIONAL (too generic),Any food post,Basic descriptor
+tasty,맛집,Tasty Restaurant,Quality,VERY HIGH,Very High,RECOMMENDED (literally "tasty place"),Food highlights,Restaurant recommendation
+beautiful,아름다운,Beautiful,Aesthetic,VERY HIGH,Very High,OPTIONAL (too generic),Pretty scenes,Visual appeal
+instagram,인스타,Instagram,Platform,VERY HIGH,Very High,OPTIONAL,Social content,Instagram-specific
+insta_worthy,인스타감성,Instagram Aesthetic,Social,HIGH,High,RECOMMENDED,Photo moments,Aesthetic shots
+photo_spot,사진명소,Photo Spot,Feature,MEDIUM,Medium,RECOMMENDED,Scenic locations,Photography focus
+travelgram,여행스타그램,Travel Instagram,Social,HIGH,High,OPTIONAL,Travel diary,Journey documentation
+travel_photography,여행사진,Travel Photography,Content Type,MEDIUM,High,OPTIONAL,Photo-focused,Photography showcase
+bucket_list,버킷리스트,Bucket List,Aspiration,HIGH,High,RECOMMENDED,Must-visit content,Dream destination
+must_visit,꼭가봐야할곳,Must Visit Place,Recommendation,MEDIUM,Medium,RECOMMENDED,Highlight destinations,Essential experiences
+hidden_gem,숨은맛집,Hidden Gem Restaurant,Discovery,HIGH,Medium,RECOMMENDED,Off-beaten-path,Unique finds
+local_food,현지음식,Local Food,Cuisine,HIGH,High,RECOMMENDED,Authentic dishes,Traditional cuisine
+authentic,정통,Authentic,Quality,MEDIUM,Medium,OPTIONAL,Traditional emphasis,Genuine experience
+recommendation,추천,Recommendation,Engagement,VERY HIGH,Very High,OPTIONAL (too generic),Suggest to others,General recommendation
+highly_recommend,강력추천,Highly Recommend,Engagement,HIGH,Medium,RECOMMENDED,Strong endorsement,Must-try emphasis
+travel_tip,여행팁,Travel Tip,Information,MEDIUM,High,OPTIONAL,Helpful advice,Practical information
+travel_info,여행정보,Travel Information,Information,MEDIUM,High,OPTIONAL,Practical details,Planning content
+summer_vacation,여름휴가,Summer Vacation,Season,HIGH,High,SEASONAL,Summer content,Peak season posts
+vacation,휴가,Vacation,Travel Purpose,VERY HIGH,Very High,RECOMMENDED,Holiday travel,Leisure trips
+holiday,휴일,Holiday,Occasion,HIGH,High,OPTIONAL,Break time,Special days
+overseas_travel,해외여행,Overseas Travel,Travel Type,VERY HIGH,Very High,RECOMMENDED,International travel,Abroad experiences
+world_travel,세계여행,World Travel,Travel Type,HIGH,High,OPTIONAL,Global exploration,International journey
+gameofthrones,왕좌의게임,Game of Thrones,Pop Culture,MEDIUM,Medium,RECOMMENDED IF APPLICABLE,GOT references,Filming locations
+kings_landing,킹스랜딩,King's Landing,Pop Culture,LOW,Low,OPTIONAL,GOT connection,Filming location
+unesco,유네스코,UNESCO,Heritage,MEDIUM,Medium,RECOMMENDED,World Heritage,Cultural significance
+old_town,구시가지,Old Town,Location,HIGH,High,HIGHLY RECOMMENDED,Historic center,Medieval architecture
+city_walls,성벽,City Walls,Landmark,MEDIUM,Low,RECOMMENDED,Historic sites,Fortification views
+terrace,테라스,Terrace,Feature,HIGH,High,RECOMMENDED,Outdoor seating,Al fresco dining
+outdoor_dining,야외식사,Outdoor Dining,Feature,MEDIUM,Medium,RECOMMENDED,Terrace service,Open-air meals
+sea_view,바다뷰,Sea View,Feature,HIGH,High,HIGHLY RECOMMENDED,Coastal views,Ocean perspectives
+croatia_full_of_life,크로아티아풀오브라이프,Croatia Full of Life,Branding,LOW,Low,OPTIONAL,Official slogan,Tourism board tag
