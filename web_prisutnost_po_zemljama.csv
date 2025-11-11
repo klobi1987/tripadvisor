@@ -1,0 +1,55 @@
+zemlja_regija,platforma,nautika,panorama,dubravka_1836,arsenal,status,tip_platforme,korisnici_milijuni,prioritet,vaznost_napomena
+GLOBALNO,TripAdvisor,✅ DA (2210 rec),✅ DA (1336 rec),✅ DA (4616 rec),✅ DA,PRISUTNI,Review platforma,490M,✅ POKRIVENO,Glavni source za sve zemlje
+GLOBALNO,Google Reviews,✅ DA,✅ DA,✅ DA,✅ DA,PRISUTNI,Review platforma,4000M,✅ POKRIVENO,Automatski prisutni
+GLOBALNO,Instagram,✅ DA (@nautikarestaurant - 7243 fol),⚠️ PARCIJALNO,⚠️ PARCIJALNO,⚠️ PARCIJALNO,PARCIJALNO,Social Media,2000M,🟡 OPTIMIZIRATI,Optimizirati hashtage za svaku zemlju
+GLOBALNO,Facebook,✅ DA,✅ DA,✅ DA (88% rec),✅ DA,PRISUTNI,Social Media,3000M,✅ POKRIVENO,Dobra prisutnost
+GLOBALNO,Michelin Guide,✅ DA (Plate),❌ NE,❌ NE,❌ NE,PARCIJALNO,Fine Dining Guide,Global,🟢 DOBRO,Samo Nautika ima Michelin Plate
+GLOBALNO,TheFork/LaFourchette,✅ DA (partner),❌ NE,❌ NE,❌ NE,PARCIJALNO,Rezervacije Europa,40M,🟡 DODATI,Dodati ostale restorane
+GLOBALNO,OpenTable,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Rezervacije USA/UK,20M,🟡 RAZMISLITI,Alternativan sistem
+UK,Condé Nast Traveller UK,✅ DA (2008 - 6th romantic),❌ NE,❌ NE,❌ NE,STARO,Luxury Travel Mag,2M,🔴 AŽURIRATI,Samo stara recenzija iz 2008
+UK,Harden's Guide,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,UK Restaurant Guide,1M,🟡 RAZMISLITI,UK-specific guide
+UK,Square Meal,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,UK Restaurant Guide,0.5M,🟡 RAZMISLITI,UK-specific guide
+UK,Mark Hix Review,✅ DA (London Chef),❌ NE,❌ NE,❌ NE,DA,UK Chef Review,N/A,✅ POKRIVENO,Dobra recenzija
+FRANCUSKA,Le Figaro,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,French Media,8M,🔴 TREBALI BI,Važan FR market
+FRANCUSKA,Condé Nast Traveller FR,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Luxury Travel FR,1M,🟡 RAZMISLITI,FR edicija
+NJEMACKA,Der Feinschmecker,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,German Food Mag,0.2M,🟡 RAZMISLITI,Fokus na Njemačku
+NJEMACKA,Der Spiegel,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,German Media,5M,🟡 RAZMISLITI,General media
+ITALIJA,La Repubblica,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Italian Media,15M,🟡 RAZMISLITI,Blizina tržišta
+ITALIJA,Gambero Rosso,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Italian Food Guide,1M,🟡 RAZMISLITI,Fokus na Italiju
+AUSTRIJA,Gault&Millau Croatia,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Fine Dining Guide,0.5M,🔴 VAŽNO!,Konkurenti jesu! (360 ima 4 toques)
+AUSTRIJA,Falstaff,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Austrian Food Mag,0.3M,🟡 RAZMISLITI,AT/DE market
+KINA,Dianping (大众点评),❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma,600M,🔴 KRITIČNO!,80% Kineza koristi ovo!
+KINA,WeChat Official Account,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Social Media,1300M,🔴 KRITIČNO!,Essential za Kinu
+KINA,Xiaohongshu (小红书),❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Social Media/Reviews,300M,🔴 KRITIČNO!,Mladi Kinezi planiraju putovanja
+KINA,WeChat Pay,❌ NE,❌ NE,❌ NE,❌ NE,NIJE INTEGRIRANO,Payment System,900M,🟠 VAŽNO,Kinezi žele platiti WeChat
+KINA,Trip.com,✅ DA (neki reviews),❌ NE,❌ NE,❌ NE,PARCIJALNO,Travel Platforma,400M,🟡 POBOLJŠATI,Slaba prisutnost
+JAPAN,Tabelog (食べログ),❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma Japan,130M,🟡 NIJE MOGUĆE,Samo Japan restorani
+JAPAN,Gurunavi,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma Japan,120M,🟡 NIJE MOGUĆE,Samo Japan restorani
+JAPAN,Japanese Food Blogger,✅ DA (Sushi Sandwich blog),❌ NE,❌ NE,❌ NE,DA,Blog,N/A,🟢 DOBRO,Postoji recenzija
+JUŽNA KOREJA,Naver (네이버),❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Search/Review KR,45M,🔴 KRITIČNO!,90% Korejaca koristi Naver
+JUŽNA KOREJA,KakaoMap (카카오맵),❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Maps/Review KR,40M,🔴 VAŽNO,Essential za Koreance
+JUŽNA KOREJA,Instagram KR hashtags,⚠️ NE (#두브로브니크),❌ NE,❌ NE,❌ NE,NISU OPTIMIZIRANI,Social Media,20M KR,🟠 VAŽNO,Trebaju KR hashtage!
+SINGAPUR,Burpple,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma SG,2M,🟡 NIJE PRIORITET,Fokus na Singapore
+SINGAPUR,HungryGoWhere,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma SG,1M,🟡 NIJE PRIORITET,Fokus na Singapore
+TAJLAND,Wongnai,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma TH,5.7M,🟡 NIJE PRIORITET,Fokus na Thailand
+INDIJA,Zomato India,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma IN,50M,🟡 NIJE PRIORITET,Fokus na Indiju
+INDIJA,Times of India,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Indian Media,100M,🟡 RAZMISLITI,Veliko tržište
+UAE,Zomato UAE,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma UAE,5M,🟠 VAŽNO,UAE tržište raste
+UAE,The Entertainer,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Discount App UAE,3M,🟡 RAZMISLITI,Discount platforma
+UAE,TimeOut Abu Dhabi,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Lifestyle Magazine,2M,🟡 RAZMISLITI,UAE lifestyle
+UAE,Gulf News,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,UAE Media,5M,🟡 RAZMISLITI,Glavni UAE medij
+UAE,Arabic Website,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Website,400M arab,🔴 VAŽNO!,Nema arapskog weba!
+USA,Yelp,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Review Platforma USA,200M,🟡 RAZMISLITI,Fokus na USA lokacije
+USA,Wine Spectator,✅ DA (Best of Award),❌ NE,❌ NE,❌ NE,DA,Wine Magazine,3M,✅ POKRIVENO,Odlična nagrada!
+USA,Fodor's Travel,✅ DA,❌ NE,❌ NE,❌ NE,DA,Travel Guide,10M,✅ POKRIVENO,Dobra prisutnost
+USA,Afar Magazine,✅ DA,❌ NE,❌ NE,❌ NE,DA,Travel Magazine,5M,✅ POKRIVENO,Dobra prisutnost
+USA,CNN Travel,✅ DA (Best waterfront),❌ NE,❌ NE,❌ NE,DA,Media,100M,✅ POKRIVENO,Odlična nagrada 2019
+KANADA,enRoute Magazine,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Air Canada Mag,3M,🟡 RAZMISLITI,Inflight magazine
+KANADA,Vancouver Sun,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Canadian Media,2M,🟡 NIJE PRIORITET,Regionalni medij
+KANADA,Toronto Star,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Canadian Media,3M,🟡 NIJE PRIORITET,Regionalni medij
+AUSTRALIJA,Delicious Magazine,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Food Magazine AU,1M,🟡 RAZMISLITI,AU food scene
+AUSTRALIJA,Good Food Guide,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Restaurant Guide AU,2M,🟡 RAZMISLITI,AU restaurant guide
+GLOBALNO,World's 50 Best,❌ NE,❌ NE,❌ NE,❌ NE,NISU PRISUTNI,Global Ranking,Global,🟢 NIJE REALNO,Previsok nivo
+GLOBALNO,OAD Rankings,✅ DA (#413 Classical),❌ NE,❌ NE,❌ NE,DA,Global Ranking,Global,✅ POKRIVENO,Dobar ranking
+GLOBALNO,Big 7 Travel,✅ DA (3rd most romantic 2023),❌ NE,❌ NE,❌ NE,DA,Travel Ranking,Global,✅ POKRIVENO,Odlična nagrada!
+HRVATSKA,Gault&Millau Croatia,❌ NE - KONKURENTI DA!,❌ NE,❌ NE,❌ NE,PROBLEM!,Fine Dining HR,0.2M,🔴 HITNO!,360 ima 4 toques - vi nemate!

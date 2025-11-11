@@ -1,0 +1,37 @@
+prioritet,platforma,zemlja_regija,status,procjena_korisnika,investicija_eur,mjesecni_troskovi_eur,timeline_dani,razlog,ocekivani_roi,actionable
+🔴 KRITIČNO 1,Dianping (大众点评),KINA,NISU PRISUTNI,600M,5000,500,60,"80% Kineza koristi Dianping prije putovanja. Bez ovoga NE POSTOJITE za Kineze!",+80000€/god,DA - HITNO
+🔴 KRITIČNO 2,WeChat Official Account,KINA,NISU PRISUTNI,1300M,3000,400,45,Essential za komunikaciju sa kineskim tržištem. Bez WeChat Official Account nema China market.,+50000€/god,DA - HITNO
+🔴 KRITIČNO 3,Xiaohongshu (小红书),KINA,NISU PRISUTNI,300M,4000,600,60,"Mladi Kinezi (18-35) planiraju 100% putovanja preko Xiaohongshu. Food content #1 kategorija.",+60000€/god,DA - HITNO
+🔴 KRITIČNO 4,Naver (네이버),JUŽNA KOREJA,NISU PRISUTNI,45M,2000,300,30,"90% Korejaca koristi Naver umjesto Googlea. Bez Navera NE POSTOJITE za Koreance!",+25000€/god,DA - HITNO
+🔴 KRITIČNO 5,KakaoMap (카카오맵),JUŽNA KOREJA,NISU PRISUTNI,40M,1500,200,30,Essential za Koreance da nađu lokaciju. Google Maps slabo radi u Koreji.,+15000€/god,DA - VAŽNO
+🔴 KRITIČNO 6,Gault&Millau Croatia,HRVATSKA/EUROPA,NISU PRISUTNI - KONKURENTI JESU!,500K,APLIKACIJA,0,180,"Konkurent Restaurant 360 ima 4 toques (najbolja ocjena). Vi NISTE NI NA LISTI! Gubi se kredibilitet.",Kredibilitet,DA - HITNO!
+🔴 VAŽNO 7,Arabic Website Version,UAE/SAUDIJSKA/KATAR,NE POSTOJI,400M govornika,3000,100,45,UAE gosti su highest spenders (0% negativnih recenzija!). Zaslužuju arapski web!,+40000€/god,DA
+🟠 VAŽNO 8,WeChat Pay Integration,KINA,NIJE INTEGRIRANO,900M,2000,100,30,"Kinezi žele platiti sa WeChat Pay, ne karticama. Convenience = više posjeta.",+30000€/god,DA
+🟠 VAŽNO 9,Instagram Korean Strategy,JUŽNA KOREJA,NISU OPTIMIZIRANI,20M KR users,500,300,14,"Instagram stratešan ali trebaju Korean hashtags (#두브로브니크, #크로아티아맛집, etc.)",+30000€/god,DA
+🟠 VAŽNO 10,Zomato UAE,UAE,NISU PRISUTNI,5M,1000,200,30,UAE market raste. Premium dining segment. Highest average check.,+20000€/god,DA
+🟡 RAZMISLITI 11,TheFork ostali restorani,EUROPA,Samo Nautika,40M,1000,200,30,"Nautika je TheFork partner, ali Panorama, Dubravka i Arsenal nisu. Missed opportunity.",+15000€/god,DA
+🟡 RAZMISLITI 12,Le Figaro / French Media,FRANCUSKA,NISU PRISUTNI,8M,PR campaign,PR campaign,90,Francuska #8 tržište po broju recenzija. Respektiraju fine dining.,Kredibilitet,DA
+🟡 RAZMISLITI 13,UK Media Refresh,UK,SAMO STARO (2008),30M,PR campaign,PR campaign,60,"UK je #1 tržište (29.6%), ali posljednja velika recenzija iz 2008. Trebaju update!",Kredibilitet,DA
+🟡 RAZMISLITI 14,Ctrip/Trip.com Enhancement,KINA,PARCIJALNO,400M,1000,200,30,Već postoji neki sadržaj ali slabo optimiziran. Low hanging fruit.,+25000€/god,DA
+🟡 RAZMISLITI 15,Halal-Friendly Menu Options,UAE/MIDDLE EAST,NE POSTOJE,500M Muslims,2000,0,30,UAE gosti imaju 0% negativnih recenzija. Halal opcije = more comfort = more visits.,+15000€/god,DA
+🟡 RAZMISLITI 16,OpenTable USA/UK,USA/UK,NISU PRISUTNI,20M,500,150,30,"Alternativa TheFork za US/UK tržište. Nautika već ima TheFork, možda nisu potrebni.",+10000€/god,MOŽDA
+🟡 RAZMISLITI 17,Yelp USA,USA,NISU PRISUTNI,200M,0 (besplatno),0,7,Yelp fokus na USA lokacije. Besplatno. Low effort - može se dodati.,Minimal,DA - LAKO
+🟡 RAZMISLITI 18,enRoute Air Canada Magazine,KANADA,NISU PRISUTNI,3M passengers,PR pitch,0,90,Kanada #6 tržište. Inflight magazine reach. Premium audience.,Kredibilitet,MOŽDA
+🟡 RAZMISLITI 19,Delicious / Good Food AU,AUSTRALIJA,NISU PRISUTNI,3M,PR pitch,0,90,Australija #4 tržište (2.6%). Food-focused audience.,Kredibilitet,MOŽDA
+🟡 RAZMISLITI 20,TimeOut Abu Dhabi,UAE,NISU PRISUTNI,2M,PR pitch,0,60,Lifestyle magazine za UAE expatse i turiste. Premium audience.,Kredibilitet,MOŽDA
+🟢 NIJE PRIORITET,Tabelog Japan,JAPAN,NISU PRISUTNI,130M,N/A - samo Japan,N/A,N/A,Tabelog pokriva SAMO restorane u Japanu. Nije moguće dodati Dubrovnik.,N/A,NE - nije moguće
+🟢 NIJE PRIORITET,Wongnai Thailand,TAJLAND,NISU PRISUTNI,5.7M,N/A,N/A,N/A,Wongnai fokus na Thailand restorane. Mali broj Thai turista u DBV.,Minimalan,NE
+🟢 NIJE PRIORITET,Burpple Singapore,SINGAPUR,NISU PRISUTNI,2M,N/A,N/A,N/A,Burpple fokus na Singapore/Asia restorane. Mali broj SG turista.,Minimalan,NE
+🟢 NIJE PRIORITET,HungryGoWhere SG,SINGAPUR,NISU PRISUTNI,1M,N/A,N/A,N/A,Fokus na Singapore restorane. Nije relevantno za Dubrovnik.,Minimalan,NE
+🟢 NIJE PRIORITET,Zomato India,INDIJA,NISU PRISUTNI,50M,N/A,N/A,N/A,Zomato India fokus na indijske restorane. Mali broj indijskih turista u DBV.,Minimalan,NE
+🟢 DOBRO,TripAdvisor,GLOBALNO,✅ SVI PRISUTNI,490M,0,0,0,Svi 4 restorana imaju odličnu prisutnost i reviews na TripAdvisor.,N/A,✅ VEĆ POKRIVENO
+🟢 DOBRO,Google Reviews,GLOBALNO,✅ SVI PRISUTNI,4000M,0,0,0,Automatski prisutni. Dobro pokriveno.,N/A,✅ VEĆ POKRIVENO
+🟢 DOBRO,Michelin Guide,GLOBALNO,✅ NAUTIKA,Global,0,0,0,Nautika ima Michelin Plate. Ostali možda ne kvalificiraju za Michelin.,N/A,✅ NAUTIKA POKRIVENA
+🟢 DOBRO,Wine Spectator,USA,✅ NAUTIKA,3M,0,0,0,Nautika ima Best of Award of Excellence. Odlična nagrada!,N/A,✅ NAUTIKA POKRIVENA
+🟢 DOBRO,CNN Travel,USA,✅ NAUTIKA,100M,0,0,0,"Nautika na CNN listi ""Best Waterfront Restaurants"" (2019).",N/A,✅ NAUTIKA POKRIVENA
+🟢 DOBRO,Big 7 Travel,GLOBALNO,✅ NAUTIKA,Global,0,0,0,Nautika ranked 3rd most romantic restaurant in world (2023).,N/A,✅ NAUTIKA POKRIVENA
+🟢 DOBRO,OAD Rankings,GLOBALNO,✅ NAUTIKA,Global,0,0,0,Nautika ranked #413 Classical category. Respectable ranking.,N/A,✅ NAUTIKA POKRIVENA
+🟢 DOBRO,Condé Nast Traveller,UK/GLOBALNO,✅ NAUTIKA (staro),Global,0,0,0,"Nautika 6th most romantic (2008). Staro, ali prestižno.",N/A,🟡 OSVJEŽITI
+⚪ NIJE REALNO,World's 50 Best,GLOBALNO,NISU PRISUTNI,Global,N/A,N/A,N/A,Previsok nivo za trenutnu poziciju. Nerealan cilj trenutno.,N/A,NE - nerealno
+⚪ NIJE REALNO,3 Michelin Stars,GLOBALNO,NISU PRISUTNI,Global,N/A,N/A,N/A,Nerealan cilj. Nautika ima Michelin Plate što je dobro.,N/A,NE - nerealno
+SUMMARY,TOTAL CRITICAL + IMPORTANT,TOP 10,MISSING,2.8+ BILLION users,23500€,2700€/mj,180 dana,"Ukupno 10 kritičnih/važnih platformi gdje NEDOSTAJETE. 2.8+ milijardi ljudi vas NE MOŽE NAĆI!",+395000€/god,DA - AKCIJA POTREBNA!
